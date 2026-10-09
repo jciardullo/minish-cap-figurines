@@ -1,5 +1,7 @@
 # Minish Cap figurines
 
+**What is the fastest way to get all 136 figurines in *The Legend of Zelda: The Minish Cap*, and how should you spend Mysterious Shells?** This repository gives a conditional mathematical optimization for PAL and NTSC-U and distills it into a practical player strategy.
+
 For a normal completionist playthrough, use the **compact player strategy** at ordinary town visits, collect rewards normally, and begin serious gallery cleanup once all figurines are eligible. It is the recommended practical rule; the simpler memorized knee trades speed for fewer rules.
 
 **[Read the complete player strategy](player_strategy.md)** · **[Read the mathematical paper](paper.pdf)**
