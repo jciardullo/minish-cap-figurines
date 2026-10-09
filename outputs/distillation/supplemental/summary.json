@@ -1,0 +1,430 @@
+{
+  "PAL": {
+    "tier5_best": {
+      "id": 12003,
+      "complexity": 42,
+      "features": [
+        4,
+        4,
+        4,
+        1,
+        8,
+        1,
+        0,
+        2
+      ],
+      "reference_seconds": 7323.133774058953,
+      "mean_regret": 0.03416814262442895,
+      "worst_regret": 0.08145581450907413,
+      "improvement_percentage_points": -0.009351652840977609,
+      "reference_time_saving_seconds": -0.679186009417208,
+      "clause_count": 8,
+      "fits_original_Tier4_limits": true
+    },
+    "historical_compact": {
+      "id": 8911,
+      "worst_regret": 0.08136229798066436
+    },
+    "expanded_knee": 6457,
+    "expanded_knee_geometry": [
+      {
+        "id": 500,
+        "normalized_complexity": 0.0,
+        "normalized_regret": 1.0,
+        "signed_distance": 0.0
+      },
+      {
+        "id": 14203,
+        "normalized_complexity": 0.030303030303030304,
+        "normalized_regret": 0.3182171625753179,
+        "signed_distance": 0.46066578942182407
+      },
+      {
+        "id": 4148,
+        "normalized_complexity": 0.09090909090909091,
+        "normalized_regret": 0.29219788121963014,
+        "signed_distance": 0.4362092432744832
+      },
+      {
+        "id": 3708,
+        "normalized_complexity": 0.15151515151515152,
+        "normalized_regret": 0.15451748761269843,
+        "signed_distance": 0.49070902679482925
+      },
+      {
+        "id": 6729,
+        "normalized_complexity": 0.18181818181818182,
+        "normalized_regret": 0.12123073019730306,
+        "signed_distance": 0.4928188404691927
+      },
+      {
+        "id": 6457,
+        "normalized_complexity": 0.21212121212121213,
+        "normalized_regret": 0.08310847816877814,
+        "signed_distance": 0.49834786517489116
+      },
+      {
+        "id": 7651,
+        "normalized_complexity": 0.45454545454545453,
+        "normalized_regret": 0.013620772772584307,
+        "signed_distance": 0.3760632671274395
+      },
+      {
+        "id": 9114,
+        "normalized_complexity": 0.48484848484848486,
+        "normalized_regret": 0.009810555017271563,
+        "signed_distance": 0.3573300197222444
+      },
+      {
+        "id": 9278,
+        "normalized_complexity": 0.5151515151515151,
+        "normalized_regret": 0.005724841064995632,
+        "signed_distance": 0.338791577546113
+      },
+      {
+        "id": 8553,
+        "normalized_complexity": 0.8787878787878788,
+        "normalized_regret": 0.0001761508877843585,
+        "signed_distance": 0.08558535538383232
+      },
+      {
+        "id": 8911,
+        "normalized_complexity": 1.0,
+        "normalized_regret": 0.0,
+        "signed_distance": 0.0
+      }
+    ],
+    "expanded_runner_up": 6729,
+    "expanded_knee_margin": 0.005529024705698438,
+    "expanded_endpoints": {
+      "C_min": 7,
+      "C_max": 40,
+      "R_max": 1.8436255106008994,
+      "R_min": 0.08136229798066436
+    },
+    "original_frontier_points_newly_dominated": [
+      10000
+    ],
+    "original_evaluated_C15_records": 217,
+    "low_frontier_ids": [
+      500,
+      14203,
+      4148,
+      3708,
+      6729,
+      6457
+    ],
+    "extended_stability": [
+      {
+        "change": "P weight x0.8",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "P weight x1.2",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "S weight x0.8",
+        "selected": 3708,
+        "changed": true,
+        "interior": true
+      },
+      {
+        "change": "S weight x1.2",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "Q weight x0.8",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "Q weight x1.2",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "I weight x0.8",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "I weight x1.2",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "L weight x0.8",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "L weight x1.2",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "M weight x0.8",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "M weight x1.2",
+        "selected": 3708,
+        "changed": true,
+        "interior": true
+      },
+      {
+        "change": "B weight x0.8",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "B weight x1.2",
+        "selected": 6457,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "Remove behaviorally identical candidates",
+        "selected": 6457,
+        "changed": false
+      },
+      {
+        "change": "Remove adjacent near duplicates: delta C<=1 and every-case delta time<=1 s",
+        "selected": 6457,
+        "changed": false
+      }
+    ]
+  },
+  "NTSC-U": {
+    "tier5_best": {
+      "id": 13011,
+      "complexity": 39,
+      "features": [
+        4,
+        3,
+        3,
+        1,
+        8,
+        1,
+        0,
+        2
+      ],
+      "reference_seconds": 6909.334438042883,
+      "mean_regret": 0.03638915981076092,
+      "worst_regret": 0.07473861652355979,
+      "improvement_percentage_points": 0.0828900932110313,
+      "reference_time_saving_seconds": 8.020253872184185,
+      "clause_count": 8,
+      "fits_original_Tier4_limits": true
+    },
+    "historical_compact": {
+      "id": 8560,
+      "worst_regret": 0.0755675174556701
+    },
+    "expanded_knee": 6098,
+    "expanded_knee_geometry": [
+      {
+        "id": 500,
+        "normalized_complexity": 0.0,
+        "normalized_regret": 1.0,
+        "signed_distance": 0.0
+      },
+      {
+        "id": 75,
+        "normalized_complexity": 0.03125,
+        "normalized_regret": 0.4780276735197882,
+        "signed_distance": 0.34699308473379664
+      },
+      {
+        "id": 4124,
+        "normalized_complexity": 0.09375,
+        "normalized_regret": 0.32518488661944545,
+        "signed_distance": 0.4108750819823202
+      },
+      {
+        "id": 3708,
+        "normalized_complexity": 0.15625,
+        "normalized_regret": 0.21660735964195557,
+        "signed_distance": 0.4434568137684094
+      },
+      {
+        "id": 6729,
+        "normalized_complexity": 0.1875,
+        "normalized_regret": 0.1680606833977821,
+        "signed_distance": 0.4556874108326527
+      },
+      {
+        "id": 6098,
+        "normalized_complexity": 0.21875,
+        "normalized_regret": 0.11620668053055849,
+        "signed_distance": 0.4702566409796536
+      },
+      {
+        "id": 8978,
+        "normalized_complexity": 0.46875,
+        "normalized_regret": 0.02851693419998924,
+        "signed_distance": 0.3554859599538904
+      },
+      {
+        "id": 9468,
+        "normalized_complexity": 0.53125,
+        "normalized_regret": 0.018510629505070233,
+        "signed_distance": 0.3183673120341272
+      },
+      {
+        "id": 9524,
+        "normalized_complexity": 0.5625,
+        "normalized_regret": 0.016214183607193955,
+        "signed_distance": 0.2978940575890639
+      },
+      {
+        "id": 8080,
+        "normalized_complexity": 0.90625,
+        "normalized_regret": 0.005219074750670965,
+        "signed_distance": 0.0626008175885199
+      },
+      {
+        "id": 8560,
+        "normalized_complexity": 0.9375,
+        "normalized_regret": 0.0007069645914438601,
+        "signed_distance": 0.04369427436749049
+      },
+      {
+        "id": 13011,
+        "normalized_complexity": 1.0,
+        "normalized_regret": 0.0,
+        "signed_distance": 0.0
+      }
+    ],
+    "expanded_runner_up": 6729,
+    "expanded_knee_margin": 0.0145692301470009,
+    "expanded_endpoints": {
+      "C_min": 7,
+      "C_max": 39,
+      "R_max": 1.2472173264083333,
+      "R_min": 0.07473861652355979
+    },
+    "original_frontier_points_newly_dominated": [],
+    "original_evaluated_C15_records": 165,
+    "low_frontier_ids": [
+      500,
+      75,
+      4124,
+      3708,
+      6729,
+      6098
+    ],
+    "extended_stability": [
+      {
+        "change": "P weight x0.8",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "P weight x1.2",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "S weight x0.8",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "S weight x1.2",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "Q weight x0.8",
+        "selected": 6728,
+        "changed": true,
+        "interior": true
+      },
+      {
+        "change": "Q weight x1.2",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "I weight x0.8",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "I weight x1.2",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "L weight x0.8",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "L weight x1.2",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "M weight x0.8",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "M weight x1.2",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "B weight x0.8",
+        "selected": 6098,
+        "changed": false,
+        "interior": true
+      },
+      {
+        "change": "B weight x1.2",
+        "selected": 6728,
+        "changed": true,
+        "interior": true
+      },
+      {
+        "change": "Remove behaviorally identical candidates",
+        "selected": 6098,
+        "changed": false
+      },
+      {
+        "change": "Remove adjacent near duplicates: delta C<=1 and every-case delta time<=1 s",
+        "selected": 6098,
+        "changed": false
+      }
+    ]
+  }
+}

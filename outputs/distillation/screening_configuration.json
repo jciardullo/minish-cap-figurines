@@ -1,0 +1,24 @@
+{
+  "seed": 20261031,
+  "runs": 512,
+  "limit": 10000,
+  "nominal_beam": 32,
+  "simultaneous_family_confidence": 0.99,
+  "student_t_critical": 5.582881136359692,
+  "interval_assumption": "Studentized normal approximation; not a distribution-free bound. Protected best three per complexity and six per tier.",
+  "protected_counts": {
+    "PAL": 1611,
+    "NTSC-U": 1568
+  },
+  "generated": 10000,
+  "entry_threshold_refinement": "Observable chance on arrival, retained session activation; seeded from best 32, family leaders, and each complexity band.",
+  "compact_table_refinement": "Four recognizable phases, seven/eight rows maximum. Seeded grid, no new mechanics/route changes.",
+  "selection_seed": 20261110,
+  "selection_list_frozen_before_sampling": true,
+  "candidate_list_sha256": "edcd4d1118de22cefa0d248020469064b06188cc34cdbea57967e58766163730",
+  "holdout_protected_counts": {
+    "PAL": 1593,
+    "NTSC-U": 1558
+  },
+  "training_seed": 20261031
+}

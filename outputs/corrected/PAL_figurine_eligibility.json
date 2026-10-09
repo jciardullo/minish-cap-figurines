@@ -1,0 +1,818 @@
+[
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "KINSTONE_2C",
+    "gate": "UNK_6_10",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "7",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "2",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0x12",
+    "gate": "UNK_6_40",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "FLAG_BANK_4",
+    "flag": "YAMADOUKUTU_0E_SENNIN",
+    "gate": "UNK_6_40",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "5",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "5",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "1",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "5",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "2",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "2",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "2",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "UNK_6_20",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "KINSTONE_30",
+    "gate": "UNK_6_10",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "1"
+  },
+  {
+    "bank": "FLAG_BANK_4",
+    "flag": "GORON_DOUKUTU_APPEAR",
+    "gate": "UNK_6_40",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "7",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "2",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "6",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "7",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "KINSTONE_33",
+    "gate": "UNK_6_10",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "1",
+    "gate": "UNK_6_20",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "5",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "7",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "7",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "6",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "5",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "7",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "7",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "2",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "2",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "6",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "7",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "7",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "6",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "2",
+    "gate": "UNK_6_20",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "3",
+    "gate": "UNK_6_20",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "4",
+    "gate": "UNK_6_20",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "2",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "6",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "1",
+    "category": "2"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "4",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "7",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "6",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "0",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "1",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "3",
+    "category": "3"
+  },
+  {
+    "bank": "FLAG_BANK_8",
+    "flag": "LV4_10_BOSSDIE",
+    "gate": "UNK_6_8",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "9",
+    "category": "0"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "9",
+    "category": "1"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "9",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "9",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "9",
+    "category": "3"
+  },
+  {
+    "bank": "0",
+    "flag": "0",
+    "gate": "9",
+    "category": "3"
+  }
+]

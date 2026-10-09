@@ -1,0 +1,17 @@
+{
+  "wall_seconds": 31.054938542001764,
+  "child_user_seconds": 57.948566,
+  "child_system_seconds": 2.143313,
+  "child_peak_rss_bytes": 109248512,
+  "peak_rss_units": "bytes on macOS; maximum single child, not aggregate",
+  "new_policy_region_records": 70,
+  "route_evaluation_upper_bound": 560,
+  "environment": {
+    "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+    "machine": "arm64",
+    "logical_cpus": 10,
+    "python": "3.14.0",
+    "parallel_workers": 2,
+    "evaluator": "clang++ C++17 O2, frozen exact.cpp/policy.hpp floating-point forward occupancy"
+  }
+}

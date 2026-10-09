@@ -1,0 +1,9 @@
+{
+  "contribution": "Human-directed, AI-assisted computational research; OpenAI ChatGPT used extensively for modeling, code/solver development, analysis, policy search, interpretation, drafting, LaTeX and revision. Human project lead and curator supplied research question, measurements/assumptions, completion criteria, corrections, methodological/evaluation requirements and publication decisions, and bears responsibility for publication and remaining errors.",
+  "repository_url": null,
+  "release_identifier": null,
+  "doi": null,
+  "archival_identifier": null,
+  "local_bundle": "outputs/figurine_distillation_bundle.zip",
+  "project_lead_and_curator": "jciardullo"
+}

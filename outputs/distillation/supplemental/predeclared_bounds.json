@@ -1,0 +1,46 @@
+{
+  "declared_before_evaluation": true,
+  "timestamp_local": "2026-10-08 20:37:48 -0400",
+  "frozen_candidate_sha256": "edcd4d1118de22cefa0d248020469064b06188cc34cdbea57967e58766163730",
+  "low_complexity": {
+    "exhaustive_boundary": 8,
+    "complete_grammar_limit_requested": 15,
+    "representatives": "All four C7 behavioral classes: universal one-shell or displayed-100, maximum-batch or minimum-needed restocking; no meaningful partial fallback",
+    "higher_boundary": "Report combinatorial lower bound for C15 and non-exhaustive original evaluated results; no heuristic substitution",
+    "C8_declaration_before_evaluation": "2026-10-08 20:41:26 -0400",
+    "C8_classes": {
+      "shared_threshold": 198,
+      "different_constant_early_post": 4,
+      "no_early_constant_post": 4,
+      "shared_guarantee_partial": 2,
+      "funded_first_universal": 2
+    },
+    "C8_expected_unique_representatives": 210
+  },
+  "tier5": {
+    "seeds": {
+      "PAL": 8911,
+      "NTSC-U": 8560
+    },
+    "max_printed_clauses": 12,
+    "intermediate_values": [
+      40,
+      60,
+      80,
+      -30
+    ],
+    "mutations": "16 single-row target replacements (early, Fortress, Water, postgame), plus 24 postgame inventory-band rules: cutoff 100/300/600 times target 40/60/80/-30 times threshold original or 0; upper band retains original final row",
+    "candidate_count_per_region_before_dedup": 40,
+    "selection": "lowest worst-tested regret, then regional complexity, mean regret, ID",
+    "evaluation": "every valid unique policy on all 8 routes and unchanged recosting to 14 PAL or12 NTSC scenarios; no screening or adaptive expansion",
+    "recommendation": "Do not automatically adopt the supplemental best; preserve historical compact and knee IDs; report any improvements separately"
+  },
+  "compute_environment": {
+    "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+    "machine": "arm64",
+    "logical_cpus": 10,
+    "python": "3.14.0",
+    "parallel_workers": 2,
+    "evaluator": "clang++ C++17 O2, frozen exact.cpp/policy.hpp floating-point forward occupancy"
+  }
+}

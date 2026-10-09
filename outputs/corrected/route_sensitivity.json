@@ -1,0 +1,18 @@
+[
+  {
+    "region": "PAL",
+    "routes": 8,
+    "minimum_seconds": 6369.74475230708,
+    "maximum_seconds": 7295.94575196608,
+    "range_seconds": 926.2009996590004,
+    "range_percent_of_reference": 12.89303943803876
+  },
+  {
+    "region": "NTSC-U",
+    "routes": 8,
+    "minimum_seconds": 6086.55225702817,
+    "maximum_seconds": 6880.58951414644,
+    "range_seconds": 794.0372571182697,
+    "range_percent_of_reference": 11.697955475034263
+  }
+]

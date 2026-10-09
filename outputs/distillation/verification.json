@@ -1,0 +1,123 @@
+{
+  "exact_files": 2816,
+  "status_counts": {
+    "PAL": {
+      "exactly_dominated": 1297,
+      "not_retained_after_screening": 8666,
+      "exactly_evaluated": 37
+    },
+    "NTSC-U": {
+      "exactly_dominated": 1439,
+      "not_retained_after_screening": 8518,
+      "exactly_evaluated": 43
+    }
+  },
+  "validation_cells": 48,
+  "validation_completions": 960000,
+  "validation_ci_outside_nonconstant": [],
+  "max_simulation_relative_difference": 0.0012495068485304497,
+  "knee_weight_changes": {
+    "PAL": [
+      {
+        "change": "S weight x0.8",
+        "selected": 3708,
+        "changed": true,
+        "interior": true
+      },
+      {
+        "change": "M weight x1.2",
+        "selected": 3708,
+        "changed": true,
+        "interior": true
+      }
+    ],
+    "NTSC-U": [
+      {
+        "change": "Q weight x0.8",
+        "selected": 6728,
+        "changed": true,
+        "interior": true
+      },
+      {
+        "change": "B weight x1.2",
+        "selected": 6728,
+        "changed": true,
+        "interior": true
+      }
+    ]
+  },
+  "exact_counts_by_tier": {
+    "PAL": {
+      "3": 924,
+      "2": 154,
+      "4": 166,
+      "1": 90
+    },
+    "NTSC-U": {
+      "3": 1095,
+      "4": 190,
+      "2": 158,
+      "1": 39
+    }
+  },
+  "analysis_unit_tests": 13,
+  "cpp_boundary_tests": "passed",
+  "reduced_exhaustive_model": {
+    "states": 130,
+    "actions": 260,
+    "lp_policy_max_difference": 8.881784197001252e-16,
+    "value_iteration_max_difference": 1.4850343177386094e-12,
+    "bellman_residual": 0
+  },
+  "selected_fresh_reproduction": [
+    {
+      "region": "PAL",
+      "id": 500,
+      "max_absolute_seconds_difference": 0
+    },
+    {
+      "region": "PAL",
+      "id": 6457,
+      "max_absolute_seconds_difference": 0
+    },
+    {
+      "region": "PAL",
+      "id": 8911,
+      "max_absolute_seconds_difference": 0
+    },
+    {
+      "region": "NTSC-U",
+      "id": 500,
+      "max_absolute_seconds_difference": 0
+    },
+    {
+      "region": "NTSC-U",
+      "id": 6098,
+      "max_absolute_seconds_difference": 0
+    },
+    {
+      "region": "NTSC-U",
+      "id": 8560,
+      "max_absolute_seconds_difference": 0
+    }
+  ],
+  "builtin_latex_compile": "success",
+  "export_toolchain": "Tectonic 0.17.0",
+  "overfull_latex_boxes": 0,
+  "pdf_visual_qa": {
+    "pages": 21,
+    "all_pages_inspected": true,
+    "clipping": false,
+    "overfull_boxes": 0
+  },
+  "candidate_count": 10000,
+  "total_scenarios": 26,
+  "exact_regional_records": 2816,
+  "editorial_verification": "editorial_verification.json",
+  "supplemental_endpoint_evaluations": 2,
+  "supplemental_audit": "supplemental/verification.json",
+  "pdf_pages": 22,
+  "all_rendered_pages_inspected": true,
+  "overfull_boxes": 0,
+  "final_interpretation_verification": "supplemental/interpretation_verification.json"
+}

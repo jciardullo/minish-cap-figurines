@@ -1,0 +1,37 @@
+{
+  "runs": 20000,
+  "preset_seed": 20261021,
+  "game_seeds": [
+    20261023,
+    20261024,
+    20261025
+  ],
+  "preset_counts": {
+    "halfcap_reference": 14760,
+    "reference": 941,
+    "earlier": 4299
+  },
+  "mean_seconds": 7132.348163333337,
+  "ci95_mean_low": 7123.199871902319,
+  "ci95_mean_high": 7141.496454764355,
+  "median_seconds": 7106.2,
+  "p90_seconds": 7958.46666666667,
+  "p95_seconds": 8280.33333333333,
+  "sd_seconds": 660.0956913666573,
+  "pulls": 307.4644500000003,
+  "duplicates": 171.46445000000026,
+  "used": 3954.460049999998,
+  "received": 3591.0,
+  "retained": 3433.9255499999986,
+  "lost": 157.07444999999993,
+  "refund": 857.32225,
+  "refundlost": 0.0,
+  "farm": 130.8809999999997,
+  "farmrupees": 2617.620000000001,
+  "purchased": 520.5344999999999,
+  "trips": 4.471899999999999,
+  "shop_only_trips": 1.1160999999999992,
+  "earlyvisits": 5.0,
+  "endS": 0.0,
+  "endR": 4.712250000000001
+}

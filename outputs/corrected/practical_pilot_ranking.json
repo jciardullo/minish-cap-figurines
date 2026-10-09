@@ -1,0 +1,2282 @@
+[
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 8869.63453333333,
+    "mean_seconds": 8619.348819047618
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 8903.45333333329,
+    "mean_seconds": 8626.742857142848
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 8942.16506666666,
+    "mean_seconds": 8669.32773333333
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 8943.97786666666,
+    "mean_seconds": 8685.465247619044
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 8993.09866666675,
+    "mean_seconds": 8722.639428571436
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 8993.09866666675,
+    "mean_seconds": 8722.639428571436
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 9003.17746666667,
+    "mean_seconds": 8608.091152380952
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 9067.07600000008,
+    "mean_seconds": 8634.13657142859
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 9067.89626666666,
+    "mean_seconds": 8672.719933333332
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 9070.53946666666,
+    "mean_seconds": 8664.209209523806
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 9116.67200000003,
+    "mean_seconds": 8705.165714285684
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 9116.67200000003,
+    "mean_seconds": 8705.165714285684
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 9148.70213333334,
+    "mean_seconds": 8851.388314285718
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 9155.52813333334,
+    "mean_seconds": 8863.888590476186
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 9155.85293333333,
+    "mean_seconds": 8863.785476190471
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 9217.3516,
+    "mean_seconds": 8871.654142857135
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 9217.3516,
+    "mean_seconds": 8871.654142857135
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 9219.73973333333,
+    "mean_seconds": 8884.029895238093
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 9254.5836,
+    "mean_seconds": 8825.400028571425
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 9256.5928,
+    "mean_seconds": 8826.744161904759
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 9304.496,
+    "mean_seconds": 8954.295999999993
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 9308.71733333329,
+    "mean_seconds": 8968.952190476188
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 9308.71733333329,
+    "mean_seconds": 8968.952190476188
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 9321.23333333332,
+    "mean_seconds": 8857.6878
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 9369.00493333334,
+    "mean_seconds": 8993.600485714285
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 9369.00493333334,
+    "mean_seconds": 8993.600485714285
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 9372.92613333334,
+    "mean_seconds": 8994.50373333333
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 9412.10733333334,
+    "mean_seconds": 8921.133123809524
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 9412.10733333334,
+    "mean_seconds": 8921.133123809524
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 9421.18133333329,
+    "mean_seconds": 9039.897142857122
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 9442.06533333334,
+    "mean_seconds": 8941.802104761906
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 9465.42666666673,
+    "mean_seconds": 8972.7436190476
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 9465.42666666673,
+    "mean_seconds": 8972.7436190476
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 9503.60853333334,
+    "mean_seconds": 8967.546504761911
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 9503.60853333334,
+    "mean_seconds": 8967.546504761911
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 9520.06133333329,
+    "mean_seconds": 9000.517142857108
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 9525.70853333333,
+    "mean_seconds": 9022.474057142856
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 9532.35213333334,
+    "mean_seconds": 9134.25433333333
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 9614.90666666672,
+    "mean_seconds": 9085.008571428601
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 9691.66640000001,
+    "mean_seconds": 9107.87430476191
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 9752.1348,
+    "mean_seconds": 9320.221723809524
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 9778.24093333334,
+    "mean_seconds": 9295.404238095241
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 9817.42706666666,
+    "mean_seconds": 9190.10781904762
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 9817.99066666672,
+    "mean_seconds": 9310.542857142866
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 9854.59213333333,
+    "mean_seconds": 9284.037485714287
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 9864.28133333334,
+    "mean_seconds": 9373.459514285714
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 9864.28133333334,
+    "mean_seconds": 9370.043733333336
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 9877.70133333328,
+    "mean_seconds": 9238.2123809524
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 9891.11026666666,
+    "mean_seconds": 9277.123142857143
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 9891.39559999999,
+    "mean_seconds": 9265.09479047619
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 9917.84933333334,
+    "mean_seconds": 9303.240380952377
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 9917.84933333334,
+    "mean_seconds": 9303.240380952377
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 9919.77866666672,
+    "mean_seconds": 9422.555809523781
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 9919.77866666672,
+    "mean_seconds": 9410.665142857115
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 9946.85693333333,
+    "mean_seconds": 9344.488161904765
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 9979.82000000009,
+    "mean_seconds": 9498.35828571429
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 10006.0457333333,
+    "mean_seconds": 9484.054971428572
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 10010.6997333333,
+    "mean_seconds": 9424.605866666663
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 10023.4186666667,
+    "mean_seconds": 9551.543685714287
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 10023.4186666667,
+    "mean_seconds": 9546.898095238097
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 10025.5844,
+    "mean_seconds": 9431.475933333324
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 10025.5844,
+    "mean_seconds": 9427.205323809516
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 10055.2888,
+    "mean_seconds": 9447.22666666668
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 10057.6142666667,
+    "mean_seconds": 9451.382038095233
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 10064.34,
+    "mean_seconds": 9371.32857142857
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 10098.632,
+    "mean_seconds": 9445.253523809504
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 10098.632,
+    "mean_seconds": 9432.165142857133
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 10125.5612,
+    "mean_seconds": 9440.596533333339
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 10130.2833333333,
+    "mean_seconds": 9471.49283809523
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 10172.7986666667,
+    "mean_seconds": 9541.68571428572
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 10181.6414666667,
+    "mean_seconds": 9522.912123809529
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 10194.0468,
+    "mean_seconds": 9559.846114285727
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 10194.0468,
+    "mean_seconds": 9553.332704761919
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 10202.6118666667,
+    "mean_seconds": 9714.148904761916
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 10213.2452,
+    "mean_seconds": 9509.804752380962
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 10213.2452,
+    "mean_seconds": 9509.804752380962
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 10222.2874666667,
+    "mean_seconds": 9516.4958
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 10227.2946666667,
+    "mean_seconds": 9733.624047619052
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 10273.8549333333,
+    "mean_seconds": 9774.185285714275
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 10276.3353333333,
+    "mean_seconds": 9773.431285714281
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 10285.0786666666,
+    "mean_seconds": 9587.242095238087
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 10285.0786666666,
+    "mean_seconds": 9592.619428571415
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 10285.0786666666,
+    "mean_seconds": 9592.619428571415
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 10309.3804,
+    "mean_seconds": 9714.990457142865
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 10317.9149333333,
+    "mean_seconds": 9609.853666666659
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 10331.5480000001,
+    "mean_seconds": 9819.315809523801
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 10331.5480000001,
+    "mean_seconds": 9819.315809523801
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 10335.4776,
+    "mean_seconds": 9809.555600000007
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 10352.5833333333,
+    "mean_seconds": 9833.397495238098
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 10359.6385333333,
+    "mean_seconds": 9641.49301904761
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 10359.6385333333,
+    "mean_seconds": 9641.49301904761
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 10381.3039999999,
+    "mean_seconds": 9654.996380952347
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 10383.7013333334,
+    "mean_seconds": 9841.35704761906
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 10383.7013333334,
+    "mean_seconds": 9883.341619047636
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 10384.9639999999,
+    "mean_seconds": 9879.06590476191
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 10384.9639999999,
+    "mean_seconds": 9879.06590476191
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 10391.5237333333,
+    "mean_seconds": 9819.872838095238
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 10391.5237333333,
+    "mean_seconds": 9861.50253333333
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 10406.9118666667,
+    "mean_seconds": 9726.99241904762
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 10411.7146666667,
+    "mean_seconds": 9878.837238095248
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 10411.7146666667,
+    "mean_seconds": 9910.901333333331
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 10427.5089333333,
+    "mean_seconds": 9860.134952380937
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 10427.5089333333,
+    "mean_seconds": 9860.134952380937
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 10430.6644,
+    "mean_seconds": 9791.034133333334
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 10485.1205333333,
+    "mean_seconds": 9807.798819047614
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 10489.6010666667,
+    "mean_seconds": 9753.57240952381
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 10490.1998666667,
+    "mean_seconds": 9893.873685714283
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 10490.1998666667,
+    "mean_seconds": 9932.6307047619
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 10509.7776,
+    "mean_seconds": 9857.509847619052
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 10512.2672,
+    "mean_seconds": 9857.89773333334
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 10547.8986666667,
+    "mean_seconds": 9891.026095238105
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 10547.8986666667,
+    "mean_seconds": 9891.026095238105
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 10564.7844,
+    "mean_seconds": 9864.59859047618
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 10565.8986666666,
+    "mean_seconds": 9913.444761904775
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 10565.8986666666,
+    "mean_seconds": 9913.444761904775
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 10605.5272,
+    "mean_seconds": 9901.634714285714
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 10606.7224,
+    "mean_seconds": 9871.278400000007
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 10606.7224,
+    "mean_seconds": 9908.029285714292
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 10620.4426666666,
+    "mean_seconds": 9925.910476190495
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 10620.4426666666,
+    "mean_seconds": 9963.073904761924
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 10626.6669333333,
+    "mean_seconds": 9932.435495238093
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 10626.6669333333,
+    "mean_seconds": 9932.435495238093
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 10636.132,
+    "mean_seconds": 9951.681809523829
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 10636.132,
+    "mean_seconds": 9975.26190476192
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 10664.4012,
+    "mean_seconds": 9900.188961904762
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 10678.3186666667,
+    "mean_seconds": 9999.415171428587
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 10678.3186666667,
+    "mean_seconds": 10056.022361904777
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 10712.1357333333,
+    "mean_seconds": 9975.50119047618
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 10712.1357333333,
+    "mean_seconds": 10012.84341904761
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 10744.7058666667,
+    "mean_seconds": 9908.082400000005
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 10779.7413333333,
+    "mean_seconds": 9930.259238095236
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 10844.8284,
+    "mean_seconds": 10106.429495238097
+  },
+  {
+    "threshold": 6,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 10844.8284,
+    "mean_seconds": 10156.326676190478
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 10851.5273333333,
+    "mean_seconds": 10029.367323809525
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 10851.5273333333,
+    "mean_seconds": 10024.216400000001
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 10868.8613333334,
+    "mean_seconds": 10038.800190476217
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 10868.8613333334,
+    "mean_seconds": 10029.564380952392
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 10873.8642666667,
+    "mean_seconds": 10038.743009523812
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 10881.2996,
+    "mean_seconds": 10049.690857142852
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 10881.2996,
+    "mean_seconds": 10104.81634285714
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 10921.8893333334,
+    "mean_seconds": 10086.667428571445
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 10925.6869333333,
+    "mean_seconds": 10109.611428571434
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 10928.5432,
+    "mean_seconds": 10110.529657142868
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 10937.9426666667,
+    "mean_seconds": 10113.974095238114
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 10953.5230666667,
+    "mean_seconds": 10062.075619047624
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 10971.3037333333,
+    "mean_seconds": 10117.323114285706
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 10989.9066666667,
+    "mean_seconds": 10174.300000000005
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 10989.9066666667,
+    "mean_seconds": 10174.300000000005
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 11000.8992,
+    "mean_seconds": 10163.174571428583
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 11000.8992,
+    "mean_seconds": 10158.694371428583
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 11007.4024,
+    "mean_seconds": 10147.618123809527
+  },
+  {
+    "threshold": 10,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 11007.4024,
+    "mean_seconds": 10199.031009523813
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 11118.7264,
+    "mean_seconds": 10308.994552380953
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 11119.2114666667,
+    "mean_seconds": 10309.710038095232
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 11168.1293333333,
+    "mean_seconds": 10332.446790476193
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 11209.4481333333,
+    "mean_seconds": 10303.183733333328
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 11227.8325333333,
+    "mean_seconds": 10370.611085714276
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 11243.474,
+    "mean_seconds": 10347.650666666666
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 11243.474,
+    "mean_seconds": 10347.650666666666
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 11255.2866666667,
+    "mean_seconds": 10349.101200000001
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 11255.9748,
+    "mean_seconds": 10395.74750476192
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 11257.4012,
+    "mean_seconds": 10389.813914285707
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 11264.3082666667,
+    "mean_seconds": 10401.473695238097
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 11278.3440000001,
+    "mean_seconds": 10426.907619047646
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 11278.3440000001,
+    "mean_seconds": 10426.907619047646
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 11317.2962666666,
+    "mean_seconds": 10452.509619047616
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 11349.248,
+    "mean_seconds": 10458.183714285735
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 11349.248,
+    "mean_seconds": 10489.811142857156
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 11350.668,
+    "mean_seconds": 10448.85142857144
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 11350.668,
+    "mean_seconds": 10455.15676190476
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 11350.668,
+    "mean_seconds": 10455.15676190476
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 11374.2866666667,
+    "mean_seconds": 10508.809714285691
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 11374.2866666667,
+    "mean_seconds": 10508.809714285691
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 11389.3102666667,
+    "mean_seconds": 10497.619419047609
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 11390.0120000001,
+    "mean_seconds": 10516.370190476217
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 11390.0120000001,
+    "mean_seconds": 10538.633714285743
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 11394.0229333333,
+    "mean_seconds": 10480.543895238088
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 11403.4453333333,
+    "mean_seconds": 10493.398857142864
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 11405.8912,
+    "mean_seconds": 10495.83619999999
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 11405.8912,
+    "mean_seconds": 10495.83619999999
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 11413.0458666667,
+    "mean_seconds": 10458.336923809531
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 11413.0458666667,
+    "mean_seconds": 10499.570942857154
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 11414.9241333333,
+    "mean_seconds": 10517.005333333329
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 11414.9241333333,
+    "mean_seconds": 10517.005333333329
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 11493.1334666667,
+    "mean_seconds": 10518.532142857157
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 11493.1334666667,
+    "mean_seconds": 10553.169238095255
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 11588.6686666667,
+    "mean_seconds": 10624.041904761913
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 11636.4437333334,
+    "mean_seconds": 10640.86433333334
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 11636.4437333334,
+    "mean_seconds": 10695.949047619053
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 11703.7301333333,
+    "mean_seconds": 10760.668800000001
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 11833.0209333333,
+    "mean_seconds": 10764.228847619026
+  },
+  {
+    "threshold": 15,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 11833.0209333333,
+    "mean_seconds": 10822.917723809498
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 11833.4092,
+    "mean_seconds": 10782.7584952381
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 11858.3546666667,
+    "mean_seconds": 10811.627428571406
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 11890.0168,
+    "mean_seconds": 10889.389333333344
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 11890.0168,
+    "mean_seconds": 10885.86875238096
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 11909.3906666667,
+    "mean_seconds": 10901.504380952405
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 11909.3906666667,
+    "mean_seconds": 10896.360000000033
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 11958.9853333334,
+    "mean_seconds": 10955.175428571429
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 12017.2548,
+    "mean_seconds": 10979.9640095238
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 12030.3238666667,
+    "mean_seconds": 10920.479152380965
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 12034.3810666667,
+    "mean_seconds": 10977.244180952383
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 12034.3810666667,
+    "mean_seconds": 10970.869495238096
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 12249.3650666667,
+    "mean_seconds": 11144.602171428574
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 12285.6798666667,
+    "mean_seconds": 11245.965000000007
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 12286.0548,
+    "mean_seconds": 11229.845514285715
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 12304.3982666667,
+    "mean_seconds": 11248.399609523807
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 12312.0679999999,
+    "mean_seconds": 11273.606095238065
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 12312.0679999999,
+    "mean_seconds": 11273.606095238065
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 12318.5058666667,
+    "mean_seconds": 11256.850828571443
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 12355.676,
+    "mean_seconds": 11279.577580952373
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 12404.1309333333,
+    "mean_seconds": 11324.5291047619
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 12411.8013333333,
+    "mean_seconds": 11315.508761904757
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 12411.8013333333,
+    "mean_seconds": 11347.490476190478
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 12439.2280000001,
+    "mean_seconds": 11372.979047619043
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 12439.2280000001,
+    "mean_seconds": 11372.979047619043
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 12445.5253333333,
+    "mean_seconds": 11370.606380952364
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 12445.5253333333,
+    "mean_seconds": 11393.593904761887
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 12463.0888,
+    "mean_seconds": 11287.5098952381
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 12463.0888,
+    "mean_seconds": 11287.5098952381
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 12464.5229333333,
+    "mean_seconds": 11332.558209523808
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 12464.5229333333,
+    "mean_seconds": 11378.122742857144
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 12505.3484,
+    "mean_seconds": 11434.203523809536
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 12548.146,
+    "mean_seconds": 11382.481561904764
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 12548.146,
+    "mean_seconds": 11425.026104761908
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 12550.1306666667,
+    "mean_seconds": 11459.808761904756
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 12584.3826666667,
+    "mean_seconds": 11500.49276190478
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 700,
+    "worst_seconds": 12584.3826666667,
+    "mean_seconds": 11500.49276190478
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 12592.3010666667,
+    "mean_seconds": 11496.108066666678
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 700,
+    "worst_seconds": 12595.6602666667,
+    "mean_seconds": 11496.555209523793
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 12694.5230666667,
+    "mean_seconds": 11464.16244761905
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 12694.5230666667,
+    "mean_seconds": 11546.528152380957
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 12728.4794666667,
+    "mean_seconds": 11656.504380952365
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 12730.9853333333,
+    "mean_seconds": 11656.679771428544
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 12762.3893333333,
+    "mean_seconds": 11494.2798952381
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 12762.3893333333,
+    "mean_seconds": 11494.2798952381
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 12797.2466666667,
+    "mean_seconds": 11488.776990476194
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 12797.2466666667,
+    "mean_seconds": 11488.776990476194
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 700,
+    "worst_seconds": 12799.8794666667,
+    "mean_seconds": 11700.420847619056
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 12899.3754666667,
+    "mean_seconds": 11587.025495238098
+  },
+  {
+    "threshold": 20,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 12899.3754666667,
+    "mean_seconds": 11676.25582857143
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 12899.9446666667,
+    "mean_seconds": 11748.662457142857
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 12899.9446666667,
+    "mean_seconds": 11748.662457142857
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 12925.7458666667,
+    "mean_seconds": 11761.842
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 12948.2453333335,
+    "mean_seconds": 11780.152761904814
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 12948.2453333335,
+    "mean_seconds": 11800.070666666694
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 12948.2453333335,
+    "mean_seconds": 11800.070666666694
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 12964.3862666667,
+    "mean_seconds": 11640.422790476207
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 12974.0242666667,
+    "mean_seconds": 11343.92201904763
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 500,
+    "worst_seconds": 13021.0146666666,
+    "mean_seconds": 11849.064761904765
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 500,
+    "worst_seconds": 13043.9536,
+    "mean_seconds": 11851.888980952379
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 13193.7042666667,
+    "mean_seconds": 11720.379238095256
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 500,
+    "worst_seconds": 13323.4328,
+    "mean_seconds": 12024.671104761921
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 13348.6913333333,
+    "mean_seconds": 11799.129809523814
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 13451.8640000001,
+    "mean_seconds": 12171.935619047628
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 13461.9693333333,
+    "mean_seconds": 12149.146904761892
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 13519.6119999999,
+    "mean_seconds": 12250.900571428572
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 13519.6119999999,
+    "mean_seconds": 12249.131047619065
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 13536.6466666667,
+    "mean_seconds": 11997.843609523827
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 13536.6466666667,
+    "mean_seconds": 11982.211923809542
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 13556.9093333333,
+    "mean_seconds": 12264.448247619035
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 13556.9093333333,
+    "mean_seconds": 12259.56039047618
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 300,
+    "worst_seconds": 13574.9346666667,
+    "mean_seconds": 12307.549904761892
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 300,
+    "worst_seconds": 13656.2848,
+    "mean_seconds": 12346.987847619044
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 300,
+    "worst_seconds": 13831.536,
+    "mean_seconds": 12228.050695238093
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 13909.6910666667,
+    "mean_seconds": 12598.531914285715
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 13917.8353333333,
+    "mean_seconds": 12588.505076190466
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 13920.8042666667,
+    "mean_seconds": 12591.644952380952
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 13927.0733333332,
+    "mean_seconds": 12620.293714285708
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 13927.0733333332,
+    "mean_seconds": 12620.293714285708
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 13934.2108,
+    "mean_seconds": 12624.017752380958
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 13987.1638666667,
+    "mean_seconds": 12030.491638095258
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 0,
+    "worst_seconds": 13987.1638666667,
+    "mean_seconds": 12188.758866666694
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 14009.6306666665,
+    "mean_seconds": 12654.691809523749
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 100,
+    "worst_seconds": 14009.6306666665,
+    "mean_seconds": 12685.294952380893
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 14075.3650666667,
+    "mean_seconds": 12686.829333333342
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 100,
+    "worst_seconds": 14075.3650666667,
+    "mean_seconds": 12725.595723809534
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 14080.5039999999,
+    "mean_seconds": 12738.355999999929
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 14080.5039999999,
+    "mean_seconds": 12761.3706666666
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 900,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 14097.8373333334,
+    "mean_seconds": 12764.111238095236
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 950,
+    "early_target": 100,
+    "stop_inventory": 0,
+    "worst_seconds": 14097.8373333334,
+    "mean_seconds": 12764.111238095236
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 14105.6806666667,
+    "mean_seconds": 12131.966238095241
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 50,
+    "stop_inventory": 100,
+    "worst_seconds": 14105.6806666667,
+    "mean_seconds": 12316.138409523815
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 700,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 14173.0434666667,
+    "mean_seconds": 12728.080323809529
+  },
+  {
+    "threshold": 27,
+    "inventory_trigger": 800,
+    "early_target": 80,
+    "stop_inventory": 0,
+    "worst_seconds": 14173.0434666667,
+    "mean_seconds": 12772.858228571427
+  }
+]

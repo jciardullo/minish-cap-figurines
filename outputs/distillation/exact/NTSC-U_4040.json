@@ -1,0 +1,396 @@
+{
+  "id": 4040,
+  "region": "NTSC-U",
+  "cache_key": "12b377bfa0ad930b8cf4",
+  "complexity": 10,
+  "features": [
+    1,
+    0,
+    1,
+    0,
+    3,
+    0,
+    0,
+    2
+  ],
+  "tier": 2,
+  "compact": true,
+  "worst_regret": 0.46658776863841106,
+  "worst_seconds": 2832.6881472863706,
+  "mean_regret": 0.3283607572408571,
+  "mean_seconds": 2162.9333277149512,
+  "cases": [
+    {
+      "scenario": "NTSC-U:route:reference",
+      "seconds": 8903.960596426381,
+      "optimum_seconds": 6766.61768256026,
+      "regret_seconds": 2137.3429138661213,
+      "regret_percent": 31.586577136975514,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          279.211901948596,
+          522.999999999997,
+          480.787616015666,
+          1361.70542672513
+        ],
+        "expected_seconds": 8903.96059642638,
+        "used": 5067.21190194854,
+        "purchased": 1548.64677450846,
+        "dupes": 143.211901948602,
+        "trips": 14.1848173910946,
+        "retained": 3548,
+        "lost": 43,
+        "refund": 716.059509743009,
+        "refundlost": 0,
+        "farmrupees": 9615.75232031337,
+        "endS": 29.4348725598543,
+        "endR": 7.5,
+        "complete": 1,
+        "shellerr": 6.14228667927819e-11,
+        "casherr": -5.28377341879605e-12
+      }
+    },
+    {
+      "scenario": "NTSC-U:route:earlier",
+      "seconds": 8829.25813249723,
+      "optimum_seconds": 6859.5815184086,
+      "regret_seconds": 1969.6766140886311,
+      "regret_percent": 28.71423874477972,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          279.211901948589,
+          523.000000000002,
+          470.071649552991,
+          1329.86682864682
+        ],
+        "expected_seconds": 8829.25813249723,
+        "used": 5079.21190194834,
+        "purchased": 1516.49887512043,
+        "dupes": 143.211901948595,
+        "trips": 13.5709696633253,
+        "retained": 3591,
+        "lost": 0,
+        "refund": 716.059509742983,
+        "refundlost": 0,
+        "farmrupees": 9401.43299105987,
+        "endS": 28.2869731718237,
+        "endR": 7.5,
+        "complete": 0.999999999999999,
+        "shellerr": 2.66599187170868e-10,
+        "casherr": -2.06874517516553e-11
+      }
+    },
+    {
+      "scenario": "NTSC-U:route:later",
+      "seconds": 8820.792329342,
+      "optimum_seconds": 6760.87662138199,
+      "regret_seconds": 2059.915707960011,
+      "regret_percent": 30.468174813977654,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          279.211901948593,
+          509.000000000003,
+          468.306016113472,
+          1329.39689258292
+        ],
+        "expected_seconds": 8820.79232934202,
+        "used": 4937.21190194838,
+        "purchased": 1511.20197480187,
+        "dupes": 143.211901948599,
+        "trips": 13.6897518462839,
+        "retained": 3470,
+        "lost": 121,
+        "refund": 716.059509743005,
+        "refundlost": 0,
+        "farmrupees": 9366.12032226946,
+        "endS": 43.9900728532622,
+        "endR": 7.5,
+        "complete": 0.999999999999999,
+        "shellerr": 2.20907736547815e-10,
+        "casherr": 1.47810652606495e-11
+      }
+    },
+    {
+      "scenario": "NTSC-U:route:missed_early",
+      "seconds": 8903.293929759713,
+      "optimum_seconds": 6763.90552869217,
+      "regret_seconds": 2139.388401067543,
+      "regret_percent": 31.629483764850903,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          279.211901948596,
+          512.999999999997,
+          480.787616015666,
+          1361.70542672513
+        ],
+        "expected_seconds": 8903.29392975971,
+        "used": 4960.21190194854,
+        "purchased": 1548.64677450846,
+        "dupes": 143.211901948602,
+        "trips": 14.1848173910946,
+        "retained": 3441,
+        "lost": 150,
+        "refund": 716.059509743009,
+        "refundlost": 0,
+        "farmrupees": 9615.75232031337,
+        "endS": 29.4348725598543,
+        "endR": 7.5,
+        "complete": 1,
+        "shellerr": 6.23323614945548e-11,
+        "casherr": -5.28377341879605e-12
+      }
+    },
+    {
+      "scenario": "NTSC-U:route:missed_late",
+      "seconds": 8910.72439760262,
+      "optimum_seconds": 6818.22221899746,
+      "regret_seconds": 2092.50217860516,
+      "regret_percent": 30.68985010161253,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          283.715028902934,
+          496,
+          468.615272889098,
+          1328.89606132088
+        ],
+        "expected_seconds": 8910.72439760261,
+        "used": 4832.71502890265,
+        "purchased": 1515.50709034451,
+        "dupes": 147.715028902946,
+        "trips": 13.5490933660328,
+        "retained": 3346,
+        "lost": 245,
+        "refund": 738.575144514739,
+        "refundlost": 0,
+        "farmrupees": 9372.30545778199,
+        "endS": 28.7920614415593,
+        "endR": 7.5,
+        "complete": 0.999999999999999,
+        "shellerr": 3.03391090028526e-10,
+        "casherr": 7.33635374672303e-12
+      }
+    },
+    {
+      "scenario": "NTSC-U:route:fusion_early",
+      "seconds": 8903.76059642638,
+      "optimum_seconds": 6071.07244914001,
+      "regret_seconds": 2832.6881472863706,
+      "regret_percent": 46.658776863841105,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          279.211901948596,
+          519.999999999997,
+          480.787616015666,
+          1361.70542672513
+        ],
+        "expected_seconds": 8903.76059642638,
+        "used": 5058.21190194854,
+        "purchased": 1548.64677450846,
+        "dupes": 143.211901948602,
+        "trips": 14.1848173910946,
+        "retained": 3539,
+        "lost": 52,
+        "refund": 716.059509743009,
+        "refundlost": 0,
+        "farmrupees": 9615.75232031337,
+        "endS": 29.4348725598543,
+        "endR": 7.5,
+        "complete": 1,
+        "shellerr": 6.23323614945548e-11,
+        "casherr": -5.28377341879605e-12
+      }
+    },
+    {
+      "scenario": "NTSC-U:route:fusion_late",
+      "seconds": 8899.755400602557,
+      "optimum_seconds": 6766.61768256026,
+      "regret_seconds": 2133.137718042297,
+      "regret_percent": 31.52443093600627,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          280.776004512702,
+          521,
+          475.490835118211,
+          1347.53863654234
+        ],
+        "expected_seconds": 8899.75540060256,
+        "used": 5056.77600451264,
+        "purchased": 1533.92950873916,
+        "dupes": 144.776004512703,
+        "trips": 13.9463924326638,
+        "retained": 3548,
+        "lost": 43,
+        "refund": 723.880022563516,
+        "refundlost": 0,
+        "farmrupees": 9509.81670236427,
+        "endS": 25.1535042264573,
+        "endR": 7.5,
+        "complete": 1,
+        "shellerr": 6.31672492090729e-11,
+        "casherr": 4.24051904701628e-11
+      }
+    },
+    {
+      "scenario": "NTSC-U:route:missed_postgame",
+      "seconds": 8290.217867869424,
+      "optimum_seconds": 6480.61780044914,
+      "regret_seconds": 1809.6000674202833,
+      "regret_percent": 27.92326477415268,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          285.154053293181,
+          487.000000000004,
+          373.465657726024,
+          1060.80750443504
+        ],
+        "expected_seconds": 8290.21786786943,
+        "used": 4763.15405329306,
+        "purchased": 1230.49431266958,
+        "dupes": 149.15405329319,
+        "trips": 10.4568989338226,
+        "retained": 3587,
+        "lost": 4,
+        "refund": 742.065584925209,
+        "refundlost": 3.70468154074815,
+        "farmrupees": 7469.31315452053,
+        "endS": 54.3402593763904,
+        "endR": 8.08332164852741,
+        "complete": 1,
+        "shellerr": 1.28196120385837e-10,
+        "casherr": -9.01501095995627e-12
+      }
+    },
+    {
+      "scenario": "NTSC-U:timing:b15:r300:i15",
+      "seconds": 7507.9010866834005,
+      "optimum_seconds": 5177.81103319617,
+      "regret_seconds": 2330.0900534872308,
+      "regret_percent": 45.001450198712796,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          279.211901948596,
+          522.999999999997,
+          480.787616015666,
+          1361.70542672513
+        ],
+        "expected_seconds": 8903.96059642638,
+        "used": 5067.21190194854,
+        "purchased": 1548.64677450846,
+        "dupes": 143.211901948602,
+        "trips": 14.1848173910946,
+        "retained": 3548,
+        "lost": 43,
+        "refund": 716.059509743009,
+        "refundlost": 0,
+        "farmrupees": 9615.75232031337,
+        "endS": 29.4348725598543,
+        "endR": 7.5,
+        "complete": 1,
+        "shellerr": 6.14228667927819e-11,
+        "casherr": -5.28377341879605e-12
+      }
+    },
+    {
+      "scenario": "NTSC-U:timing:b25:r300:i15",
+      "seconds": 10300.02010616936,
+      "optimum_seconds": 8234.55668492447,
+      "regret_seconds": 2065.463421244891,
+      "regret_percent": 25.082873313948607,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          279.211901948596,
+          522.999999999997,
+          480.787616015666,
+          1361.70542672513
+        ],
+        "expected_seconds": 8903.96059642638,
+        "used": 5067.21190194854,
+        "purchased": 1548.64677450846,
+        "dupes": 143.211901948602,
+        "trips": 14.1848173910946,
+        "retained": 3548,
+        "lost": 43,
+        "refund": 716.059509743009,
+        "refundlost": 0,
+        "farmrupees": 9615.75232031337,
+        "endS": 29.4348725598543,
+        "endR": 7.5,
+        "complete": 1,
+        "shellerr": 6.14228667927819e-11,
+        "casherr": -5.28377341879605e-12
+      }
+    },
+    {
+      "scenario": "NTSC-U:timing:b20:r250:i15",
+      "seconds": 9288.590689238914,
+      "optimum_seconds": 6818.34837435497,
+      "regret_seconds": 2470.2423148839443,
+      "regret_percent": 36.22933559943884,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          279.211901948596,
+          522.999999999997,
+          480.787616015666,
+          1361.70542672513
+        ],
+        "expected_seconds": 8903.96059642638,
+        "used": 5067.21190194854,
+        "purchased": 1548.64677450846,
+        "dupes": 143.211901948602,
+        "trips": 14.1848173910946,
+        "retained": 3548,
+        "lost": 43,
+        "refund": 716.059509743009,
+        "refundlost": 0,
+        "farmrupees": 9615.75232031337,
+        "endS": 29.4348725598543,
+        "endR": 7.5,
+        "complete": 1,
+        "shellerr": 6.14228667927819e-11,
+        "casherr": -5.28377341879605e-12
+      }
+    },
+    {
+      "scenario": "NTSC-U:timing:b20:r350:i15",
+      "seconds": 8629.224815846,
+      "optimum_seconds": 6714.07242121907,
+      "regret_seconds": 1915.1523946269308,
+      "regret_percent": 28.524452440731906,
+      "resources": {
+        "id": 796,
+        "cost_mean": [
+          279.211901948596,
+          522.999999999997,
+          480.787616015666,
+          1361.70542672513
+        ],
+        "expected_seconds": 8903.96059642638,
+        "used": 5067.21190194854,
+        "purchased": 1548.64677450846,
+        "dupes": 143.211901948602,
+        "trips": 14.1848173910946,
+        "retained": 3548,
+        "lost": 43,
+        "refund": 716.059509743009,
+        "refundlost": 0,
+        "farmrupees": 9615.75232031337,
+        "endS": 29.4348725598543,
+        "endR": 7.5,
+        "complete": 1,
+        "shellerr": 6.14228667927819e-11,
+        "casherr": -5.28377341879605e-12
+      }
+    }
+  ]
+}

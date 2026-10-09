@@ -1,0 +1,29 @@
+{
+  "frozen_candidate_list_sha256": "edcd4d1118de22cefa0d248020469064b06188cc34cdbea57967e58766163730",
+  "raw_original_evaluations_unchanged": true,
+  "policy_interpreter_unchanged": true,
+  "original_knees": [
+    6457,
+    6098
+  ],
+  "original_recommended_compacts": [
+    8911,
+    8560
+  ],
+  "selected_ids_unchanged": true,
+  "original_headline_numbers_unchanged": true,
+  "supplemental_regional_records": 490,
+  "exhaustive_canonical_policy_count": 214,
+  "exhaustive_boundary": 8,
+  "tier5_unique_region_records": 62,
+  "fresh_monte_carlo_runs": 0,
+  "python_original_tests": 13,
+  "effective_entry_cases": 800000,
+  "pdf_pages": 21,
+  "all_pages_inspected": true,
+  "overfull_boxes": 0,
+  "builtin_compiler": "success",
+  "directed_rounding_certificate": false,
+  "full_belief_state_optimum_computed": false,
+  "restricted_synthetic_prior_benchmark_computed": true
+}

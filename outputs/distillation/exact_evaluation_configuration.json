@@ -1,0 +1,11 @@
+{
+  "initial_leaders": {
+    "PAL": 118,
+    "NTSC-U": 121
+  },
+  "exact_evaluated": {
+    "PAL": 849,
+    "NTSC-U": 1348
+  },
+  "screening_update": "Candidate simultaneous lower regret interval compared against a lower/equal-complexity exactly evaluated feasible incumbent; plus protected band/tier leaders. No point-estimate-only rejection or exact-domination claim for unevaluated candidates."
+}

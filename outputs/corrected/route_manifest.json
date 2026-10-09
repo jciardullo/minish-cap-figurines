@@ -1,0 +1,274 @@
+[
+  {
+    "region": "PAL",
+    "route": "reference",
+    "sha256": "6ab75ae3226c2ad68db875ed86fe14904839d2410256ac764190affaa7c06f64",
+    "natural_shells": 3591,
+    "pools": [
+      51,
+      55,
+      63,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "PAL",
+    "route": "earlier",
+    "sha256": "43cd79fc5292d60c7ba92ad5419a70165bf30d964d392843609effb0574dec66",
+    "natural_shells": 3591,
+    "pools": [
+      51,
+      55,
+      63,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "PAL",
+    "route": "later",
+    "sha256": "9aa579ef8857c3a4f45761313312ef0e13aba2310b9640178fb6be8855b11ef1",
+    "natural_shells": 3591,
+    "pools": [
+      51,
+      55,
+      63,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "PAL",
+    "route": "missed_early",
+    "sha256": "96fccc84f3550e6d91640192c14c1e7a5969f1e347fb9a6d9308755d2238749d",
+    "natural_shells": 3591,
+    "pools": [
+      51,
+      55,
+      63,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "PAL",
+    "route": "missed_late",
+    "sha256": "a5e52202fe083f65004a1eb383eefb54b6098126ac8770db4cde912178a17c40",
+    "natural_shells": 3591,
+    "pools": [
+      51,
+      55,
+      63,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "PAL",
+    "route": "fusion_early",
+    "sha256": "36386df4a30cca41b945ac0c575933246b93b4a997450f7596b15b2067360edf",
+    "natural_shells": 3591,
+    "pools": [
+      51,
+      55,
+      63,
+      88,
+      101,
+      106,
+      130,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "PAL",
+    "route": "fusion_late",
+    "sha256": "81d916a47542e4a6c0623b4f0a58d9ccb950c9da56298810795e8654e719e55c",
+    "natural_shells": 3591,
+    "pools": [
+      51,
+      55,
+      63,
+      88,
+      101,
+      106,
+      123,
+      123,
+      136
+    ]
+  },
+  {
+    "region": "PAL",
+    "route": "missed_postgame",
+    "sha256": "935241a6a814784800ce146a3762ce6103aeec4897ce7b92658982082f48f17f",
+    "natural_shells": 3591,
+    "pools": [
+      51,
+      55,
+      63,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "NTSC-U",
+    "route": "reference",
+    "sha256": "f4948baf2235381192edd91fb36653bcdfa35ad5f7347d0be8e1ef7cf814c116",
+    "natural_shells": 3591,
+    "pools": [
+      48,
+      52,
+      62,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "NTSC-U",
+    "route": "earlier",
+    "sha256": "d9c1660382dc2f950535d8439b1bc62ee5043d91d60ffa7eaf8d55e6f8c29c83",
+    "natural_shells": 3591,
+    "pools": [
+      48,
+      52,
+      62,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "NTSC-U",
+    "route": "later",
+    "sha256": "ef0d1973db3aced8b3a46f361dd0dcae886f4d32e96db6ec3be91293b97e805e",
+    "natural_shells": 3591,
+    "pools": [
+      48,
+      52,
+      62,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "NTSC-U",
+    "route": "missed_early",
+    "sha256": "e2dff2651c11d0d27e266ed615304f27698f7b6133355b3fbf5efc7a36b2c60a",
+    "natural_shells": 3591,
+    "pools": [
+      48,
+      52,
+      62,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "NTSC-U",
+    "route": "missed_late",
+    "sha256": "951e950f9c678ed16003b1ecdccdedd882cc313bfe0f3f03a8950b08c921398f",
+    "natural_shells": 3591,
+    "pools": [
+      48,
+      52,
+      62,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "NTSC-U",
+    "route": "fusion_early",
+    "sha256": "51ab309272c9c4575f2c1d80c005cbdb5f0708eddc4ac2c56d6b63309b91e65b",
+    "natural_shells": 3591,
+    "pools": [
+      48,
+      52,
+      62,
+      88,
+      101,
+      106,
+      130,
+      130,
+      136
+    ]
+  },
+  {
+    "region": "NTSC-U",
+    "route": "fusion_late",
+    "sha256": "fe42c63f2aad0437b65ed11917ea50b51daf3f9dc6504670d74615dc8cef52b7",
+    "natural_shells": 3591,
+    "pools": [
+      48,
+      52,
+      62,
+      88,
+      101,
+      106,
+      123,
+      123,
+      136
+    ]
+  },
+  {
+    "region": "NTSC-U",
+    "route": "missed_postgame",
+    "sha256": "d774168ec5a04e09248ca4d7158d5c536849ac21192c3e6c57cd1713aa7246e5",
+    "natural_shells": 3591,
+    "pools": [
+      48,
+      52,
+      62,
+      88,
+      101,
+      106,
+      123,
+      130,
+      136
+    ]
+  }
+]

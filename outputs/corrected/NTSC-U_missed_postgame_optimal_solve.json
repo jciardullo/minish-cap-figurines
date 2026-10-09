@@ -1,0 +1,15 @@
+{
+  "expected_seconds": 6500.75980675901,
+  "max_residual_seconds": 1.18589923658874e-07,
+  "threshold": 27,
+  "price": 200,
+  "max_bundles": 4,
+  "tolerance_seconds": 1e-06,
+  "pull_base_seconds": 20,
+  "farming_rupees_per_minute": 300,
+  "entry_inputs_per_second": 15,
+  "region": "NTSC-U",
+  "route": "missed_postgame",
+  "route_sha256": "d774168ec5a04e09248ca4d7158d5c536849ac21192c3e6c57cd1713aa7246e5",
+  "mode": "optimal"
+}

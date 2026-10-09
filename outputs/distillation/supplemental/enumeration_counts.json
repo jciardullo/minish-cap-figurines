@@ -1,0 +1,19 @@
+{
+  "exhaustive_maximum_complexity": 8,
+  "canonical_definitions_raw_generated": 214,
+  "rejected_invalid": 0,
+  "behaviorally_unique": 214,
+  "regional_evaluations": 428,
+  "partition": {
+    "C7": 4,
+    "C8": 210
+  },
+  "C15_subfamily_inventory_pairs": 497503,
+  "C15_subfamily_unique_policies": 3980024,
+  "C15_subfamily_regional_policy_evaluations": 7960048,
+  "measured_audit_cpu_seconds": 194.66012,
+  "measured_regional_records": 490,
+  "calibrated_subfamily_cpu_days": 36.60014878320484,
+  "projection_qualification": "Illustrative projection from measured C7/C8/Tier5 throughput; not a lower bound or guaranteed runtime. Complete C15 space is larger. Serialized alias tuples are analytically quotiented before these raw canonical-template counts. C9..15 results are non-exhaustive original bounded evaluations.",
+  "conclusion": "Complete C<=15 enumeration is infeasible in this bounded local revision; no heuristic replacement. C<=8 enumerated exhaustively in canonical minimum-scored behavioral grammar."
+}

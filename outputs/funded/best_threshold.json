@@ -1,0 +1,18 @@
+{
+  "PAL": {
+    "region": "PAL",
+    "threshold": 9,
+    "seconds": 7815.09745146126,
+    "residual": 3.93089976569172e-07,
+    "lower_bound_seconds": 6394.355538449733,
+    "status": "solved"
+  },
+  "NTSC-U": {
+    "region": "NTSC-U",
+    "threshold": 10,
+    "seconds": 7401.2385040862,
+    "residual": 6.46838088869117e-07,
+    "lower_bound_seconds": 6040.595683519888,
+    "status": "solved"
+  }
+}

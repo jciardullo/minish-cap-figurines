@@ -1,0 +1,34 @@
+[
+  {
+    "region": "PAL",
+    "policy_changes_by_phase": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      223988
+    ],
+    "sampled_tied_sets_changed": 48,
+    "max_sample_value_difference": 2.942201717814896e-07
+  },
+  {
+    "region": "NTSC-U",
+    "policy_changes_by_phase": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sampled_tied_sets_changed": 0,
+    "max_sample_value_difference": 0.0
+  }
+]

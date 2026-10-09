@@ -1,0 +1,1266 @@
+{
+  "policy": {
+    "id": 10000,
+    "parameters": [
+      -1,
+      1000,
+      0,
+      0,
+      100,
+      1000,
+      0,
+      0,
+      100,
+      1000,
+      1000,
+      0,
+      100,
+      0,
+      100,
+      0,
+      100,
+      0,
+      0
+    ],
+    "features": [
+      1,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      1
+    ],
+    "complexity": 8,
+    "tier": 1,
+    "compact": true,
+    "family": "targeted_endpoint_audit"
+  },
+  "present_in_frozen_list": false,
+  "removal_reason": "Never generated: all frozen early triggers <=971; generation grid omitted no-early-pull option. Not removed by screening.",
+  "regions": {
+    "PAL": {
+      "evaluation": {
+        "id": 10000,
+        "region": "PAL",
+        "cache_key": "722d15465e0f745f973f",
+        "complexity": 8,
+        "features": [
+          1,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          1
+        ],
+        "tier": 1,
+        "compact": true,
+        "worst_regret": 0.6421446973186998,
+        "worst_seconds": 4225.118255362217,
+        "mean_regret": 0.47101192089476973,
+        "mean_seconds": 3332.5270803677863,
+        "cases": [
+          {
+            "scenario": "PAL:route:reference",
+            "seconds": 10420.414287586897,
+            "optimum_seconds": 7164.50060315366,
+            "regret_seconds": 3255.913684433236,
+            "regret_percent": 45.44508912456581,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:route:earlier",
+            "seconds": 10420.414287586897,
+            "optimum_seconds": 7276.03808179559,
+            "regret_seconds": 3144.3762057913063,
+            "regret_percent": 43.21549956779958,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:route:later",
+            "seconds": 10420.414287586897,
+            "optimum_seconds": 7155.06062925252,
+            "regret_seconds": 3265.3536583343766,
+            "regret_percent": 45.63698097797256,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:route:missed_early",
+            "seconds": 10420.414287586897,
+            "optimum_seconds": 7157.11503354578,
+            "regret_seconds": 3263.299254041117,
+            "regret_percent": 45.595176810011566,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:route:missed_late",
+            "seconds": 10420.414287586897,
+            "optimum_seconds": 7206.05332485661,
+            "regret_seconds": 3214.3609627302867,
+            "regret_percent": 44.60639989496952,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:route:fusion_early",
+            "seconds": 10420.414287586897,
+            "optimum_seconds": 6345.61272499396,
+            "regret_seconds": 4074.8015625929365,
+            "regret_percent": 64.21446973186998,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:route:fusion_late",
+            "seconds": 10420.414287586897,
+            "optimum_seconds": 7164.50060315366,
+            "regret_seconds": 3255.913684433236,
+            "regret_percent": 45.44508912456581,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:route:missed_postgame",
+            "seconds": 10420.414287586897,
+            "optimum_seconds": 6835.26587527034,
+            "regret_seconds": 3585.1484123165565,
+            "regret_percent": 52.45075287103972,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:timing:b15:r300:i15",
+            "seconds": 7815.310716237405,
+            "optimum_seconds": 5455.78169212641,
+            "regret_seconds": 2359.529024110995,
+            "regret_percent": 43.24823017600179,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:timing:b25:r300:i15",
+            "seconds": 13025.517858936386,
+            "optimum_seconds": 8800.39960357417,
+            "regret_seconds": 4225.118255362217,
+            "regret_percent": 48.0105273133988,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:timing:b20:r250:i15",
+            "seconds": 10420.414287593754,
+            "optimum_seconds": 7170.99318486836,
+            "regret_seconds": 3249.421102725394,
+            "regret_percent": 45.31340386129575,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:timing:b20:r350:i15",
+            "seconds": 10420.414287581998,
+            "optimum_seconds": 7151.32563145356,
+            "regret_seconds": 3269.088656128438,
+            "regret_percent": 45.71304433055122,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:timing:b20:r300:i12",
+            "seconds": 10420.414287586897,
+            "optimum_seconds": 7220.8484174157,
+            "regret_seconds": 3199.5658701711964,
+            "regret_percent": 44.31010990972031,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "PAL:timing:b20:r300:i18",
+            "seconds": 10420.414287586897,
+            "optimum_seconds": 7126.92549560918,
+            "regret_seconds": 3293.4887919777166,
+            "regret_percent": 46.21191555891525,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269898,
+                0,
+                8.5719288428308e-09,
+                2.15464803685904e-06
+              ],
+              "expected_seconds": 10420.4142875869,
+              "used": 521.020714269898,
+              "purchased": 2.96723509815644e-06,
+              "dupes": 385.020714269904,
+              "trips": 3.29692788684049e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.9967754891,
+              "refundlost": 926.106795860431,
+              "farmrupees": 1.71438576856616e-07,
+              "endS": 477.979288697319,
+              "endR": 998.996745988213,
+              "complete": 0.999999999999993,
+              "shellerr": 1.75077730091289e-11,
+              "casherr": -2.5465851649642e-11,
+              "external_retained": 0
+            }
+          }
+        ]
+      },
+      "reference_minutes": 173.6735714597816,
+      "before_selection": {
+        "minimal": 500,
+        "knee": 6457,
+        "compact": 8911,
+        "simplest_5_percent": null,
+        "interior_knee_detected": true,
+        "knee_meets_5_percent": false,
+        "geometry": [
+          {
+            "id": 500,
+            "normalized_complexity": 0.0,
+            "normalized_regret": 1.0,
+            "signed_distance": 0.0
+          },
+          {
+            "id": 60,
+            "normalized_complexity": 0.030303030303030304,
+            "normalized_regret": 0.3943458399001644,
+            "signed_distance": 0.40683468544266244
+          },
+          {
+            "id": 1059,
+            "normalized_complexity": 0.06060606060606061,
+            "normalized_regret": 0.3707896518955579,
+            "signed_distance": 0.4020639475018508
+          },
+          {
+            "id": 4148,
+            "normalized_complexity": 0.09090909090909091,
+            "normalized_regret": 0.29219788121963014,
+            "signed_distance": 0.4362092432744832
+          },
+          {
+            "id": 3708,
+            "normalized_complexity": 0.15151515151515152,
+            "normalized_regret": 0.15451748761269843,
+            "signed_distance": 0.49070902679482925
+          },
+          {
+            "id": 6729,
+            "normalized_complexity": 0.18181818181818182,
+            "normalized_regret": 0.12123073019730306,
+            "signed_distance": 0.4928188404691927
+          },
+          {
+            "id": 6457,
+            "normalized_complexity": 0.21212121212121213,
+            "normalized_regret": 0.08310847816877814,
+            "signed_distance": 0.49834786517489116
+          },
+          {
+            "id": 7651,
+            "normalized_complexity": 0.45454545454545453,
+            "normalized_regret": 0.013620772772584307,
+            "signed_distance": 0.3760632671274395
+          },
+          {
+            "id": 9114,
+            "normalized_complexity": 0.48484848484848486,
+            "normalized_regret": 0.009810555017271563,
+            "signed_distance": 0.3573300197222444
+          },
+          {
+            "id": 9278,
+            "normalized_complexity": 0.5151515151515151,
+            "normalized_regret": 0.005724841064995632,
+            "signed_distance": 0.338791577546113
+          },
+          {
+            "id": 8553,
+            "normalized_complexity": 0.8787878787878788,
+            "normalized_regret": 0.0001761508877843585,
+            "signed_distance": 0.08558535538383232
+          },
+          {
+            "id": 8911,
+            "normalized_complexity": 1.0,
+            "normalized_regret": 0.0,
+            "signed_distance": 0.0
+          }
+        ]
+      },
+      "after_selection": {
+        "minimal": 500,
+        "knee": 6457,
+        "compact": 8911,
+        "simplest_5_percent": null,
+        "interior_knee_detected": true,
+        "knee_meets_5_percent": false,
+        "geometry": [
+          {
+            "id": 500,
+            "normalized_complexity": 0.0,
+            "normalized_regret": 1.0,
+            "signed_distance": 0.0
+          },
+          {
+            "id": 10000,
+            "normalized_complexity": 0.030303030303030304,
+            "normalized_regret": 0.3182171626361261,
+            "signed_distance": 0.46066578937882613
+          },
+          {
+            "id": 4148,
+            "normalized_complexity": 0.09090909090909091,
+            "normalized_regret": 0.29219788121963014,
+            "signed_distance": 0.4362092432744832
+          },
+          {
+            "id": 3708,
+            "normalized_complexity": 0.15151515151515152,
+            "normalized_regret": 0.15451748761269843,
+            "signed_distance": 0.49070902679482925
+          },
+          {
+            "id": 6729,
+            "normalized_complexity": 0.18181818181818182,
+            "normalized_regret": 0.12123073019730306,
+            "signed_distance": 0.4928188404691927
+          },
+          {
+            "id": 6457,
+            "normalized_complexity": 0.21212121212121213,
+            "normalized_regret": 0.08310847816877814,
+            "signed_distance": 0.49834786517489116
+          },
+          {
+            "id": 7651,
+            "normalized_complexity": 0.45454545454545453,
+            "normalized_regret": 0.013620772772584307,
+            "signed_distance": 0.3760632671274395
+          },
+          {
+            "id": 9114,
+            "normalized_complexity": 0.48484848484848486,
+            "normalized_regret": 0.009810555017271563,
+            "signed_distance": 0.3573300197222444
+          },
+          {
+            "id": 9278,
+            "normalized_complexity": 0.5151515151515151,
+            "normalized_regret": 0.005724841064995632,
+            "signed_distance": 0.338791577546113
+          },
+          {
+            "id": 8553,
+            "normalized_complexity": 0.8787878787878788,
+            "normalized_regret": 0.0001761508877843585,
+            "signed_distance": 0.08558535538383232
+          },
+          {
+            "id": 8911,
+            "normalized_complexity": 1.0,
+            "normalized_regret": 0.0,
+            "signed_distance": 0.0
+          }
+        ]
+      },
+      "dominators": [],
+      "frontier_changed": true
+    },
+    "NTSC-U": {
+      "evaluation": {
+        "id": 10000,
+        "region": "NTSC-U",
+        "cache_key": "722d15465e0f745f973f",
+        "complexity": 8,
+        "features": [
+          1,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          1
+        ],
+        "tier": 1,
+        "compact": true,
+        "worst_regret": 0.716404206226524,
+        "worst_seconds": 4790.961174434873,
+        "mean_regret": 0.5587578935646399,
+        "mean_seconds": 3734.3892866861656,
+        "cases": [
+          {
+            "scenario": "NTSC-U:route:reference",
+            "seconds": 10420.414288009877,
+            "optimum_seconds": 6766.61768256026,
+            "regret_seconds": 3653.7966054496173,
+            "regret_percent": 53.997385057923715,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "NTSC-U:route:earlier",
+            "seconds": 10420.414288009877,
+            "optimum_seconds": 6859.5815184086,
+            "regret_seconds": 3560.8327696012775,
+            "regret_percent": 51.91034992506918,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "NTSC-U:route:later",
+            "seconds": 10420.414288009877,
+            "optimum_seconds": 6760.87662138199,
+            "regret_seconds": 3659.537666627887,
+            "regret_percent": 54.12815336777794,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "NTSC-U:route:missed_early",
+            "seconds": 10420.414288009877,
+            "optimum_seconds": 6763.90552869217,
+            "regret_seconds": 3656.508759317707,
+            "regret_percent": 54.05913408765051,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "NTSC-U:route:missed_late",
+            "seconds": 10420.414288009877,
+            "optimum_seconds": 6818.22221899746,
+            "regret_seconds": 3602.192069012417,
+            "regret_percent": 52.831837292948734,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "NTSC-U:route:fusion_early",
+            "seconds": 10420.414288009877,
+            "optimum_seconds": 6071.07244914001,
+            "regret_seconds": 4349.341838869867,
+            "regret_percent": 71.6404206226524,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "NTSC-U:route:fusion_late",
+            "seconds": 10420.414288009877,
+            "optimum_seconds": 6766.61768256026,
+            "regret_seconds": 3653.7966054496173,
+            "regret_percent": 53.997385057923715,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "NTSC-U:route:missed_postgame",
+            "seconds": 10420.414288009877,
+            "optimum_seconds": 6480.61780044914,
+            "regret_seconds": 3939.7964875607368,
+            "regret_percent": 60.79353248216071,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "NTSC-U:timing:b15:r300:i15",
+            "seconds": 7815.310716660413,
+            "optimum_seconds": 5177.81103319617,
+            "regret_seconds": 2637.4996834642434,
+            "regret_percent": 50.93850792457681,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "NTSC-U:timing:b25:r300:i15",
+            "seconds": 13025.517859359343,
+            "optimum_seconds": 8234.55668492447,
+            "regret_seconds": 4790.961174434873,
+            "regret_percent": 58.181166974124935,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "NTSC-U:timing:b20:r250:i15",
+            "seconds": 10420.41428800997,
+            "optimum_seconds": 6818.34837435497,
+            "regret_seconds": 3602.0659136550003,
+            "regret_percent": 52.82900954728297,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          },
+          {
+            "scenario": "NTSC-U:timing:b20:r350:i15",
+            "seconds": 10420.414288009812,
+            "optimum_seconds": 6714.07242121907,
+            "regret_seconds": 3706.3418667907417,
+            "regret_percent": 55.20258993747618,
+            "resources": {
+              "id": 10000,
+              "cost_mean": [
+                521.020714269893,
+                0,
+                1.1552387755827e-10,
+                2.61155585933515e-06
+              ],
+              "expected_seconds": 10420.4142880099,
+              "used": 521.020714269893,
+              "purchased": 3.91330619500863e-06,
+              "dupes": 385.0207142699,
+              "trips": 3.26108849584053e-08,
+              "retained": 999,
+              "lost": 2592,
+              "refund": 998.996775489094,
+              "refundlost": 926.106795860432,
+              "farmrupees": 2.3104775511654e-09,
+              "endS": 477.979289643391,
+              "endR": 998.996749402727,
+              "complete": 0.999999999999991,
+              "shellerr": 2.18847162614111e-11,
+              "casherr": -3.03543856716715e-11,
+              "external_retained": 0
+            }
+          }
+        ]
+      },
+      "reference_minutes": 173.67357146683128,
+      "before_selection": {
+        "minimal": 500,
+        "knee": 6098,
+        "compact": 8560,
+        "simplest_5_percent": null,
+        "interior_knee_detected": true,
+        "knee_meets_5_percent": false,
+        "geometry": [
+          {
+            "id": 500,
+            "normalized_complexity": 0.0,
+            "normalized_regret": 1.0,
+            "signed_distance": 0.0
+          },
+          {
+            "id": 75,
+            "normalized_complexity": 0.03333333333333333,
+            "normalized_regret": 0.4776583965014766,
+            "signed_distance": 0.34578106389010915
+          },
+          {
+            "id": 4124,
+            "normalized_complexity": 0.1,
+            "normalized_regret": 0.32470747871803224,
+            "signed_distance": 0.40679324296438557
+          },
+          {
+            "id": 3708,
+            "normalized_complexity": 0.16666666666666666,
+            "normalized_regret": 0.21605313696821862,
+            "signed_distance": 0.4364830127419363
+          },
+          {
+            "id": 6729,
+            "normalized_complexity": 0.2,
+            "normalized_regret": 0.16747211566216558,
+            "signed_distance": 0.44726475630486295
+          },
+          {
+            "id": 6098,
+            "normalized_complexity": 0.23333333333333334,
+            "normalized_regret": 0.11558142791607982,
+            "signed_distance": 0.4603867874510022
+          },
+          {
+            "id": 8978,
+            "normalized_complexity": 0.5,
+            "normalized_regret": 0.027829644181574235,
+            "signed_distance": 0.33387486047447384
+          },
+          {
+            "id": 9468,
+            "normalized_complexity": 0.5666666666666667,
+            "normalized_regret": 0.017816260378866175,
+            "signed_distance": 0.2938149399848891
+          },
+          {
+            "id": 9524,
+            "normalized_complexity": 0.6,
+            "normalized_regret": 0.01551818982648072,
+            "signed_distance": 0.2718696952165744
+          },
+          {
+            "id": 8080,
+            "normalized_complexity": 0.9666666666666667,
+            "normalized_regret": 0.0045153023180856565,
+            "signed_distance": 0.020377425151325873
+          },
+          {
+            "id": 8560,
+            "normalized_complexity": 1.0,
+            "normalized_regret": 0.0,
+            "signed_distance": 0.0
+          }
+        ]
+      },
+      "after_selection": {
+        "minimal": 500,
+        "knee": 6098,
+        "compact": 8560,
+        "simplest_5_percent": null,
+        "interior_knee_detected": true,
+        "knee_meets_5_percent": false,
+        "geometry": [
+          {
+            "id": 500,
+            "normalized_complexity": 0.0,
+            "normalized_regret": 1.0,
+            "signed_distance": 0.0
+          },
+          {
+            "id": 75,
+            "normalized_complexity": 0.03333333333333333,
+            "normalized_regret": 0.4776583965014766,
+            "signed_distance": 0.34578106389010915
+          },
+          {
+            "id": 4124,
+            "normalized_complexity": 0.1,
+            "normalized_regret": 0.32470747871803224,
+            "signed_distance": 0.40679324296438557
+          },
+          {
+            "id": 3708,
+            "normalized_complexity": 0.16666666666666666,
+            "normalized_regret": 0.21605313696821862,
+            "signed_distance": 0.4364830127419363
+          },
+          {
+            "id": 6729,
+            "normalized_complexity": 0.2,
+            "normalized_regret": 0.16747211566216558,
+            "signed_distance": 0.44726475630486295
+          },
+          {
+            "id": 6098,
+            "normalized_complexity": 0.23333333333333334,
+            "normalized_regret": 0.11558142791607982,
+            "signed_distance": 0.4603867874510022
+          },
+          {
+            "id": 8978,
+            "normalized_complexity": 0.5,
+            "normalized_regret": 0.027829644181574235,
+            "signed_distance": 0.33387486047447384
+          },
+          {
+            "id": 9468,
+            "normalized_complexity": 0.5666666666666667,
+            "normalized_regret": 0.017816260378866175,
+            "signed_distance": 0.2938149399848891
+          },
+          {
+            "id": 9524,
+            "normalized_complexity": 0.6,
+            "normalized_regret": 0.01551818982648072,
+            "signed_distance": 0.2718696952165744
+          },
+          {
+            "id": 8080,
+            "normalized_complexity": 0.9666666666666667,
+            "normalized_regret": 0.0045153023180856565,
+            "signed_distance": 0.020377425151325873
+          },
+          {
+            "id": 8560,
+            "normalized_complexity": 1.0,
+            "normalized_regret": 0.0,
+            "signed_distance": 0.0
+          }
+        ]
+      },
+      "dominators": [
+        3601,
+        3617,
+        3620,
+        3600,
+        3607,
+        3611,
+        3610,
+        70,
+        85,
+        3609,
+        90,
+        3613,
+        3612,
+        3599,
+        3608,
+        75,
+        3619,
+        80,
+        3618,
+        3602,
+        3614
+      ],
+      "frontier_changed": false
+    }
+  }
+}

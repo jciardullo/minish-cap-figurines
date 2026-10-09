@@ -1,0 +1,29 @@
+{
+  "information": "Version, default displayed chance, held shells, gallery rupees, wallet, Fortress/Water/Wind milestones, full eligibility and current-session active flag. No route label, event index, future receipts, owned count or RNG state. Fixed deterministic policies chosen ex ante.",
+  "class": "All original policies assessed by deterministic forward occupancy, ID10000, exhaustive C7/C8 audit and bounded Tier5 extension. Choose minimum prior-mean expected time separately by region. This is best tested restricted-class route-blind benchmark, not a POMDP optimum.",
+  "priors": {
+    "uniform": {
+      "reference": 0.125,
+      "earlier": 0.125,
+      "later": 0.125,
+      "missed_early": 0.125,
+      "missed_late": 0.125,
+      "fusion_early": 0.125,
+      "fusion_late": 0.125,
+      "missed_postgame": 0.125
+    },
+    "reference_heavy": {
+      "reference": 0.5,
+      "earlier": 0.07142857142857142,
+      "later": 0.07142857142857142,
+      "missed_early": 0.07142857142857142,
+      "missed_late": 0.07142857142857142,
+      "fusion_early": 0.07142857142857142,
+      "fusion_late": 0.07142857142857142,
+      "missed_postgame": 0.07142857142857142
+    }
+  },
+  "labels": "Synthetic analysis priors, not empirical player-route probabilities.",
+  "5_percent": "Remains predeclared diagnostic under future-informed denominator; do not reinterpret as a fair matched-information threshold.",
+  "decomposition": "Algebraic benchmark-minus-future-informed and policy-minus-benchmark gaps only; first mixes information and restricted-family loss, not identified pure value of information."
+}

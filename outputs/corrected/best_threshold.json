@@ -1,0 +1,14 @@
+{
+  "PAL": {
+    "region": "PAL",
+    "threshold": 9,
+    "seconds": 7848.58533309075,
+    "residual": 3.80723577109165e-08
+  },
+  "NTSC-U": {
+    "region": "NTSC-U",
+    "threshold": 10,
+    "seconds": 7439.0422104335,
+    "residual": 1.12913767225109e-08
+  }
+}

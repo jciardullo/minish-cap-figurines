@@ -1,0 +1,7 @@
+{
+  "reference_hashes_unchanged": true,
+  "hashes": {
+    "outputs/corrected/PAL_reference.json": "6ab75ae3226c2ad68db875ed86fe14904839d2410256ac764190affaa7c06f64",
+    "outputs/corrected/NTSC-U_reference.json": "f4948baf2235381192edd91fb36653bcdfa35ad5f7347d0be8e1ef7cf814c116"
+  }
+}

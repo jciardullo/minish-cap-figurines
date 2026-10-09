@@ -1,0 +1,194 @@
+{
+  "PAL": {
+    "uniform": {
+      "best_tested_restricted_policy": 12011,
+      "best_tested_restricted_mean_seconds": 7311.039265251361,
+      "future_informed_mean_seconds": 7038.018359502765,
+      "policies": {
+        "knee": {
+          "id": 6457,
+          "prior_mean_seconds": 7802.381581236141,
+          "prior_mean_future_informed_gap_seconds": 764.3632217333761,
+          "equal_weight_mean_route_gap_seconds": 764.3632217333761,
+          "worst_route_gap_seconds": 1445.6658146394202,
+          "restricted_benchmark_minus_future_informed_seconds": 273.0209057485963,
+          "policy_minus_restricted_benchmark_seconds": 491.3423159847798,
+          "identity_residual_seconds": 0.0
+        },
+        "compact": {
+          "id": 8911,
+          "prior_mean_seconds": 7322.136889375588,
+          "prior_mean_future_informed_gap_seconds": 284.1185298728233,
+          "equal_weight_mean_route_gap_seconds": 284.11852987282293,
+          "worst_route_gap_seconds": 591.9951785297144,
+          "restricted_benchmark_minus_future_informed_seconds": 273.0209057485963,
+          "policy_minus_restricted_benchmark_seconds": 11.097624124226968,
+          "identity_residual_seconds": 0.0
+        },
+        "audit_baseline": {
+          "id": 10000,
+          "prior_mean_seconds": 10420.414287586897,
+          "prior_mean_future_informed_gap_seconds": 3382.395928084132,
+          "equal_weight_mean_route_gap_seconds": 3382.3959280841314,
+          "worst_route_gap_seconds": 4074.8015625929365,
+          "restricted_benchmark_minus_future_informed_seconds": 273.0209057485963,
+          "policy_minus_restricted_benchmark_seconds": 3109.3750223355355,
+          "identity_residual_seconds": 0.0
+        },
+        "software_helper": {
+          "prior_mean_seconds": 7156.227999200128,
+          "prior_mean_future_informed_gap_seconds": 118.20963969736295,
+          "equal_weight_mean_route_gap_seconds": 118.2096396973626,
+          "worst_route_gap_seconds": 468.68549413528945,
+          "restricted_benchmark_minus_future_informed_seconds": 273.0209057485963,
+          "policy_minus_restricted_benchmark_seconds": -154.81126605123336,
+          "identity_residual_seconds": 0.0,
+          "information": "Additional owned-count lookup; outside restricted human rule class"
+        }
+      }
+    },
+    "reference_heavy": {
+      "best_tested_restricted_policy": 12011,
+      "best_tested_restricted_mean_seconds": 7305.746706909252,
+      "future_informed_mean_seconds": 7092.225035353149,
+      "policies": {
+        "knee": {
+          "id": 6457,
+          "prior_mean_seconds": 7804.148460455754,
+          "prior_mean_future_informed_gap_seconds": 711.9234251026046,
+          "equal_weight_mean_route_gap_seconds": 764.3632217333761,
+          "worst_route_gap_seconds": 1445.6658146394202,
+          "restricted_benchmark_minus_future_informed_seconds": 213.52167155610277,
+          "policy_minus_restricted_benchmark_seconds": 498.4017535465018,
+          "identity_residual_seconds": 0.0
+        },
+        "compact": {
+          "id": 8911,
+          "prior_mean_seconds": 7322.273045950137,
+          "prior_mean_future_informed_gap_seconds": 230.0480105969882,
+          "equal_weight_mean_route_gap_seconds": 284.11852987282293,
+          "worst_route_gap_seconds": 591.9951785297144,
+          "restricted_benchmark_minus_future_informed_seconds": 213.52167155610277,
+          "policy_minus_restricted_benchmark_seconds": 16.526339040885432,
+          "identity_residual_seconds": 0.0
+        },
+        "audit_baseline": {
+          "id": 10000,
+          "prior_mean_seconds": 10420.414287586897,
+          "prior_mean_future_informed_gap_seconds": 3328.1892522337475,
+          "equal_weight_mean_route_gap_seconds": 3382.3959280841314,
+          "worst_route_gap_seconds": 4074.8015625929365,
+          "restricted_benchmark_minus_future_informed_seconds": 213.52167155610277,
+          "policy_minus_restricted_benchmark_seconds": 3114.6675806776448,
+          "identity_residual_seconds": 0.0
+        },
+        "software_helper": {
+          "prior_mean_seconds": 7159.773400894499,
+          "prior_mean_future_informed_gap_seconds": 67.54836554135,
+          "equal_weight_mean_route_gap_seconds": 118.2096396973626,
+          "worst_route_gap_seconds": 468.68549413528945,
+          "restricted_benchmark_minus_future_informed_seconds": 213.52167155610277,
+          "policy_minus_restricted_benchmark_seconds": -145.97330601475278,
+          "identity_residual_seconds": 0.0,
+          "information": "Additional owned-count lookup; outside restricted human rule class"
+        }
+      }
+    }
+  },
+  "NTSC-U": {
+    "uniform": {
+      "best_tested_restricted_policy": 13011,
+      "best_tested_restricted_mean_seconds": 6932.199145935943,
+      "future_informed_mean_seconds": 6660.938937773736,
+      "policies": {
+        "knee": {
+          "id": 6098,
+          "prior_mean_seconds": 7361.6527252442265,
+          "prior_mean_future_informed_gap_seconds": 700.7137874704904,
+          "equal_weight_mean_route_gap_seconds": 700.7137874704899,
+          "worst_route_gap_seconds": 1280.926320038554,
+          "restricted_benchmark_minus_future_informed_seconds": 271.26020816220716,
+          "policy_minus_restricted_benchmark_seconds": 429.4535793082832,
+          "identity_residual_seconds": 0.0
+        },
+        "compact": {
+          "id": 8560,
+          "prior_mean_seconds": 6935.771203816288,
+          "prior_mean_future_informed_gap_seconds": 274.83226604255196,
+          "equal_weight_mean_route_gap_seconds": 274.8322660425524,
+          "worst_route_gap_seconds": 489.72419875896685,
+          "restricted_benchmark_minus_future_informed_seconds": 271.26020816220716,
+          "policy_minus_restricted_benchmark_seconds": 3.5720578803448007,
+          "identity_residual_seconds": 0.0
+        },
+        "audit_baseline": {
+          "id": 10000,
+          "prior_mean_seconds": 10420.414288009877,
+          "prior_mean_future_informed_gap_seconds": 3759.475350236141,
+          "equal_weight_mean_route_gap_seconds": 3759.475350236141,
+          "worst_route_gap_seconds": 4349.341838869867,
+          "restricted_benchmark_minus_future_informed_seconds": 271.26020816220716,
+          "policy_minus_restricted_benchmark_seconds": 3488.2151420739337,
+          "identity_residual_seconds": 0.0
+        },
+        "software_helper": {
+          "prior_mean_seconds": 6762.453554087595,
+          "prior_mean_future_informed_gap_seconds": 101.51461631385882,
+          "equal_weight_mean_route_gap_seconds": 101.51461631385882,
+          "worst_route_gap_seconds": 377.60027637248004,
+          "restricted_benchmark_minus_future_informed_seconds": 271.26020816220716,
+          "policy_minus_restricted_benchmark_seconds": -169.74559184834834,
+          "identity_residual_seconds": 0.0,
+          "information": "Additional owned-count lookup; outside restricted human rule class"
+        }
+      }
+    },
+    "reference_heavy": {
+      "best_tested_restricted_policy": 13011,
+      "best_tested_restricted_mean_seconds": 6922.399985410346,
+      "future_informed_mean_seconds": 6706.229828396532,
+      "policies": {
+        "knee": {
+          "id": 6098,
+          "prior_mean_seconds": 7357.5153155018,
+          "prior_mean_future_informed_gap_seconds": 651.2854871052677,
+          "equal_weight_mean_route_gap_seconds": 700.7137874704899,
+          "worst_route_gap_seconds": 1280.926320038554,
+          "restricted_benchmark_minus_future_informed_seconds": 216.17015701381388,
+          "policy_minus_restricted_benchmark_seconds": 435.11533009145387,
+          "identity_residual_seconds": 0.0
+        },
+        "compact": {
+          "id": 8560,
+          "prior_mean_seconds": 6927.878413001479,
+          "prior_mean_future_informed_gap_seconds": 221.64858460494725,
+          "equal_weight_mean_route_gap_seconds": 274.8322660425524,
+          "worst_route_gap_seconds": 489.72419875896685,
+          "restricted_benchmark_minus_future_informed_seconds": 216.17015701381388,
+          "policy_minus_restricted_benchmark_seconds": 5.478427591133368,
+          "identity_residual_seconds": 0.0
+        },
+        "audit_baseline": {
+          "id": 10000,
+          "prior_mean_seconds": 10420.414288009877,
+          "prior_mean_future_informed_gap_seconds": 3714.184459613345,
+          "equal_weight_mean_route_gap_seconds": 3759.475350236141,
+          "worst_route_gap_seconds": 4349.341838869867,
+          "restricted_benchmark_minus_future_informed_seconds": 216.17015701381388,
+          "policy_minus_restricted_benchmark_seconds": 3498.014302599531,
+          "identity_residual_seconds": 0.0
+        },
+        "software_helper": {
+          "prior_mean_seconds": 6764.23818057588,
+          "prior_mean_future_informed_gap_seconds": 58.00835217934764,
+          "equal_weight_mean_route_gap_seconds": 101.51461631385882,
+          "worst_route_gap_seconds": 377.60027637248004,
+          "restricted_benchmark_minus_future_informed_seconds": 216.17015701381388,
+          "policy_minus_restricted_benchmark_seconds": -158.16180483446624,
+          "identity_residual_seconds": 0.0,
+          "information": "Additional owned-count lookup; outside restricted human rule class"
+        }
+      }
+    }
+  }
+}

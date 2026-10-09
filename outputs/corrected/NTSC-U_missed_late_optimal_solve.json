@@ -1,0 +1,15 @@
+{
+  "expected_seconds": 6839.88164745293,
+  "max_residual_seconds": 0,
+  "threshold": 27,
+  "price": 200,
+  "max_bundles": 4,
+  "tolerance_seconds": 1e-06,
+  "pull_base_seconds": 20,
+  "farming_rupees_per_minute": 300,
+  "entry_inputs_per_second": 15,
+  "region": "NTSC-U",
+  "route": "missed_late",
+  "route_sha256": "951e950f9c678ed16003b1ecdccdedd882cc313bfe0f3f03a8950b08c921398f",
+  "mode": "optimal"
+}

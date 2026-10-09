@@ -1,0 +1,15 @@
+{
+  "expected_seconds": 5479.19700839293,
+  "max_residual_seconds": 5.32059857505374e-07,
+  "threshold": 27,
+  "price": 300,
+  "max_bundles": 3,
+  "tolerance_seconds": 1e-06,
+  "pull_base_seconds": 15,
+  "farming_rupees_per_minute": 300,
+  "entry_inputs_per_second": 15,
+  "region": "PAL",
+  "route": "reference",
+  "route_sha256": "6ab75ae3226c2ad68db875ed86fe14904839d2410256ac764190affaa7c06f64",
+  "mode": "optimal"
+}

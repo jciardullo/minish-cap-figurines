@@ -1,0 +1,268 @@
+[
+  {
+    "tag": "NTSC-U_reference_optimal_tol1e-06_b20_r350_i15",
+    "legal": true,
+    "expected_seconds": 6714.07242121907,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_reference_threshold10",
+    "legal": true,
+    "expected_seconds": 7401.23850408022,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_reference_threshold27",
+    "legal": true,
+    "expected_seconds": 8745.10035033221,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_optimal_tol1e-06_b15_r300_i15",
+    "legal": true,
+    "expected_seconds": 5455.78169212641,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_optimal_tol1e-06_b20_r350_i15",
+    "legal": true,
+    "expected_seconds": 7151.32563145356,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_reference_optimal_tol1e-06_b15_r300_i15",
+    "legal": true,
+    "expected_seconds": 5177.81103319617,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_missed_postgame_optimal",
+    "legal": true,
+    "expected_seconds": 6835.26587527034,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_missed_early_optimal",
+    "legal": true,
+    "expected_seconds": 7157.11503354578,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_reference_optimal_tol1e-07_b20_r300_i15",
+    "legal": true,
+    "expected_seconds": 6766.61768256026,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_later_optimal",
+    "legal": true,
+    "expected_seconds": 6760.87662138199,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_reference_optimal_tol1e-06_b20_r250_i15",
+    "legal": true,
+    "expected_seconds": 6818.34837435497,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_fusion_late_optimal",
+    "legal": true,
+    "expected_seconds": 7164.50060315366,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_fusion_early_optimal",
+    "legal": true,
+    "expected_seconds": 6345.61272499396,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_optimal_tol1e-06_b20_r250_i15",
+    "legal": true,
+    "expected_seconds": 7170.99318486836,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_optimal_tol1e-07_b20_r300_i15",
+    "legal": true,
+    "expected_seconds": 7164.50060315366,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_fusion_late_optimal",
+    "legal": true,
+    "expected_seconds": 6766.61768256026,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_later_optimal",
+    "legal": true,
+    "expected_seconds": 7155.06062925252,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_threshold27",
+    "legal": true,
+    "expected_seconds": 10711.9637138813,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_reference_eighty",
+    "legal": true,
+    "expected_seconds": 10281.9801023987,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_optimal",
+    "legal": true,
+    "expected_seconds": 7164.50060315366,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_optimal_tol1e-06_b20_r300_i12",
+    "legal": true,
+    "expected_seconds": 7220.8484174157,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_earlier_optimal",
+    "legal": true,
+    "expected_seconds": 6859.5815184086,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_earlier_optimal",
+    "legal": true,
+    "expected_seconds": 7276.03808179559,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_missed_postgame_optimal",
+    "legal": true,
+    "expected_seconds": 6480.61780044914,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_guarantee",
+    "legal": true,
+    "expected_seconds": 15288.1333333333,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_reference_one",
+    "legal": true,
+    "expected_seconds": 10420.4142866208,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_optimal_tol1e-06_b20_r300_i18",
+    "legal": true,
+    "expected_seconds": 7126.92549560918,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_reference_guarantee",
+    "legal": true,
+    "expected_seconds": 11673.3333333333,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_missed_early_optimal",
+    "legal": true,
+    "expected_seconds": 6763.90552869217,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_reference_optimal_tol1e-06_b25_r300_i15",
+    "legal": true,
+    "expected_seconds": 8234.55668492447,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_reference_optimal",
+    "legal": true,
+    "expected_seconds": 6766.61768256026,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_fusion_early_optimal",
+    "legal": true,
+    "expected_seconds": 6071.07244914001,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "NTSC-U_missed_late_optimal",
+    "legal": true,
+    "expected_seconds": 6818.22221899746,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_missed_late_optimal",
+    "legal": true,
+    "expected_seconds": 7206.05332485661,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_optimal_tol1e-06_b25_r300_i15",
+    "legal": true,
+    "expected_seconds": 8800.39960357417,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_threshold9",
+    "legal": true,
+    "expected_seconds": 7815.09745144932,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_one",
+    "legal": true,
+    "expected_seconds": 10420.4142866222,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  },
+  {
+    "tag": "PAL_reference_eighty",
+    "legal": true,
+    "expected_seconds": 13100.5875861443,
+    "difference_seconds": 0.0,
+    "certificate": "Selected reachable policy is feasible without pre-Mitts farming; equals relaxed initial value within 1e-5 seconds."
+  }
+]

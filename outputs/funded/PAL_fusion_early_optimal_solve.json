@@ -1,0 +1,17 @@
+{
+  "expected_seconds": 6345.61272500102,
+  "max_residual_seconds": 3.73243892681785e-07,
+  "threshold": 27,
+  "price": 300,
+  "max_bundles": 3,
+  "tolerance_seconds": 1e-06,
+  "pull_base_seconds": 20,
+  "farming_rupees_per_minute": 300,
+  "entry_inputs_per_second": 15,
+  "funded_purchase_travel_seconds": 20,
+  "farming_trip_travel_seconds": 45,
+  "region": "PAL",
+  "route": "fusion_early",
+  "route_sha256": "36386df4a30cca41b945ac0c575933246b93b4a997450f7596b15b2067360edf",
+  "mode": "optimal"
+}

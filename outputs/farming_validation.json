@@ -1,0 +1,96 @@
+{
+  "farming_free": {
+    "initial": [
+      {
+        "owned": "0",
+        "shells": "0",
+        "rupees": "0",
+        "seconds": "7794.10641554574",
+        "shells_used": "2684.0679070527",
+        "pulls": "247.379631169604",
+        "duplicates": "111.379631169604",
+        "farmed_rupees": "26283.7809150998",
+        "purchased_shells": "2684.06790709479",
+        "farming_seconds": "2.62837809150998e-26",
+        "trips": "29.8229767454976",
+        "bundles": "89.4689302364928"
+      },
+      {
+        "owned": "0",
+        "shells": "999",
+        "rupees": "0",
+        "seconds": "6795.13214461431",
+        "shells_used": "2681.41117820462",
+        "pulls": "247.523088017327",
+        "duplicates": "111.523088017327",
+        "farmed_rupees": "16266.4973404588",
+        "purchased_shells": "1682.41117825529",
+        "farming_seconds": "1.62664973404588e-26",
+        "trips": "18.6934575361699",
+        "bundles": "56.0803726085096"
+      },
+      {
+        "owned": "0",
+        "shells": "3471",
+        "rupees": "0",
+        "seconds": "4464.5050125871",
+        "shells_used": "3471",
+        "pulls": "212.363127721761",
+        "duplicates": "76.3631277217609",
+        "farmed_rupees": "6.36309103293606e-15",
+        "purchased_shells": "8.00425087205736e-15",
+        "farming_seconds": "6.36309103293606e-45",
+        "trips": "8.89361208006373e-17",
+        "bundles": "2.66808362401912e-16"
+      }
+    ],
+    "max_reported_bellman_residual_seconds": 1.41199e-10
+  },
+  "rate10": {
+    "initial": [
+      {
+        "owned": "0",
+        "shells": "0",
+        "rupees": "0",
+        "seconds": "9794.35736636481",
+        "shells_used": "1649.91132846405",
+        "pulls": "325.036395585202",
+        "duplicates": "189.036395585202",
+        "farmed_rupees": "15553.9313067145",
+        "purchased_shells": "1649.91132846405",
+        "farming_seconds": "1555.39313067145",
+        "trips": "18.332348094045",
+        "bundles": "54.9970442821351"
+      },
+      {
+        "owned": "0",
+        "shells": "999",
+        "rupees": "0",
+        "seconds": "7796.35724591397",
+        "shells_used": "1649.91262933316",
+        "pulls": "325.036251044191",
+        "duplicates": "189.036251044191",
+        "farmed_rupees": "5563.94503811061",
+        "purchased_shells": "650.912629333157",
+        "farming_seconds": "556.394503811061",
+        "trips": "7.23236254814619",
+        "bundles": "21.6970876444386"
+      },
+      {
+        "owned": "0",
+        "shells": "999",
+        "rupees": "0",
+        "seconds": "7796.35724591397",
+        "shells_used": "1649.91262933316",
+        "pulls": "325.036251044191",
+        "duplicates": "189.036251044191",
+        "farmed_rupees": "5563.94503811061",
+        "purchased_shells": "650.912629333157",
+        "farming_seconds": "556.394503811061",
+        "trips": "7.23236254814619",
+        "bundles": "21.6970876444386"
+      }
+    ],
+    "max_reported_bellman_residual_seconds": 0.0
+  }
+}

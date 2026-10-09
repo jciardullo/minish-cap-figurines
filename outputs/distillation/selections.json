@@ -1,0 +1,154 @@
+{
+  "PAL": {
+    "minimal": 500,
+    "knee": 6457,
+    "compact": 8911,
+    "simplest_5_percent": null,
+    "interior_knee_detected": true,
+    "knee_meets_5_percent": false,
+    "geometry": [
+      {
+        "id": 500,
+        "normalized_complexity": 0.0,
+        "normalized_regret": 1.0,
+        "signed_distance": 0.0
+      },
+      {
+        "id": 10000,
+        "normalized_complexity": 0.030303030303030304,
+        "normalized_regret": 0.3182171626361261,
+        "signed_distance": 0.46066578937882613
+      },
+      {
+        "id": 4148,
+        "normalized_complexity": 0.09090909090909091,
+        "normalized_regret": 0.29219788121963014,
+        "signed_distance": 0.4362092432744832
+      },
+      {
+        "id": 3708,
+        "normalized_complexity": 0.15151515151515152,
+        "normalized_regret": 0.15451748761269843,
+        "signed_distance": 0.49070902679482925
+      },
+      {
+        "id": 6729,
+        "normalized_complexity": 0.18181818181818182,
+        "normalized_regret": 0.12123073019730306,
+        "signed_distance": 0.4928188404691927
+      },
+      {
+        "id": 6457,
+        "normalized_complexity": 0.21212121212121213,
+        "normalized_regret": 0.08310847816877814,
+        "signed_distance": 0.49834786517489116
+      },
+      {
+        "id": 7651,
+        "normalized_complexity": 0.45454545454545453,
+        "normalized_regret": 0.013620772772584307,
+        "signed_distance": 0.3760632671274395
+      },
+      {
+        "id": 9114,
+        "normalized_complexity": 0.48484848484848486,
+        "normalized_regret": 0.009810555017271563,
+        "signed_distance": 0.3573300197222444
+      },
+      {
+        "id": 9278,
+        "normalized_complexity": 0.5151515151515151,
+        "normalized_regret": 0.005724841064995632,
+        "signed_distance": 0.338791577546113
+      },
+      {
+        "id": 8553,
+        "normalized_complexity": 0.8787878787878788,
+        "normalized_regret": 0.0001761508877843585,
+        "signed_distance": 0.08558535538383232
+      },
+      {
+        "id": 8911,
+        "normalized_complexity": 1.0,
+        "normalized_regret": 0.0,
+        "signed_distance": 0.0
+      }
+    ]
+  },
+  "NTSC-U": {
+    "minimal": 500,
+    "knee": 6098,
+    "compact": 8560,
+    "simplest_5_percent": null,
+    "interior_knee_detected": true,
+    "knee_meets_5_percent": false,
+    "geometry": [
+      {
+        "id": 500,
+        "normalized_complexity": 0.0,
+        "normalized_regret": 1.0,
+        "signed_distance": 0.0
+      },
+      {
+        "id": 75,
+        "normalized_complexity": 0.03333333333333333,
+        "normalized_regret": 0.4776583965014766,
+        "signed_distance": 0.34578106389010915
+      },
+      {
+        "id": 4124,
+        "normalized_complexity": 0.1,
+        "normalized_regret": 0.32470747871803224,
+        "signed_distance": 0.40679324296438557
+      },
+      {
+        "id": 3708,
+        "normalized_complexity": 0.16666666666666666,
+        "normalized_regret": 0.21605313696821862,
+        "signed_distance": 0.4364830127419363
+      },
+      {
+        "id": 6729,
+        "normalized_complexity": 0.2,
+        "normalized_regret": 0.16747211566216558,
+        "signed_distance": 0.44726475630486295
+      },
+      {
+        "id": 6098,
+        "normalized_complexity": 0.23333333333333334,
+        "normalized_regret": 0.11558142791607982,
+        "signed_distance": 0.4603867874510022
+      },
+      {
+        "id": 8978,
+        "normalized_complexity": 0.5,
+        "normalized_regret": 0.027829644181574235,
+        "signed_distance": 0.33387486047447384
+      },
+      {
+        "id": 9468,
+        "normalized_complexity": 0.5666666666666667,
+        "normalized_regret": 0.017816260378866175,
+        "signed_distance": 0.2938149399848891
+      },
+      {
+        "id": 9524,
+        "normalized_complexity": 0.6,
+        "normalized_regret": 0.01551818982648072,
+        "signed_distance": 0.2718696952165744
+      },
+      {
+        "id": 8080,
+        "normalized_complexity": 0.9666666666666667,
+        "normalized_regret": 0.0045153023180856565,
+        "signed_distance": 0.020377425151325873
+      },
+      {
+        "id": 8560,
+        "normalized_complexity": 1.0,
+        "normalized_regret": 0.0,
+        "signed_distance": 0.0
+      }
+    ]
+  }
+}

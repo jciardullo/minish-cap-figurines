@@ -1,0 +1,87 @@
+{
+  "exact_files": 2816,
+  "status_counts": {
+    "PAL": {
+      "exactly_dominated": 1297,
+      "not_retained_after_screening": 8666,
+      "exactly_evaluated": 37
+    },
+    "NTSC-U": {
+      "exactly_dominated": 1439,
+      "not_retained_after_screening": 8518,
+      "exactly_evaluated": 43
+    }
+  },
+  "validation_cells": 48,
+  "validation_completions": 960000,
+  "validation_ci_outside_nonconstant": [],
+  "max_simulation_relative_difference": 0.0012495068485304497,
+  "knee_weight_changes": {
+    "PAL": [
+      {
+        "change": "S weight x0.8",
+        "selected": 3708,
+        "changed": true,
+        "interior": true
+      },
+      {
+        "change": "M weight x1.2",
+        "selected": 3708,
+        "changed": true,
+        "interior": true
+      }
+    ],
+    "NTSC-U": [
+      {
+        "change": "Q weight x0.8",
+        "selected": 6728,
+        "changed": true,
+        "interior": true
+      },
+      {
+        "change": "B weight x1.2",
+        "selected": 6728,
+        "changed": true,
+        "interior": true
+      }
+    ]
+  },
+  "exact_counts_by_tier": {
+    "PAL": {
+      "3": 924,
+      "2": 154,
+      "4": 166,
+      "1": 90
+    },
+    "NTSC-U": {
+      "3": 1095,
+      "4": 190,
+      "2": 158,
+      "1": 39
+    }
+  },
+  "supplemental_endpoint_audit": {
+    "records": 2,
+    "policy_id": 10000,
+    "frozen_search_records": 2816,
+    "frontier_change": "PAL C8 point replaces old C8 and C9 points",
+    "minimum_endpoints_unchanged": true,
+    "knees_unchanged": true,
+    "status_overlay": "endpoint_status_overlay.json"
+  },
+  "supplemental_extension": {
+    "regional_records": 490,
+    "canonical_exhaustive_boundary": 8,
+    "canonical_exhaustive_policies": 214,
+    "tier5_policies_per_region": 31,
+    "selected_knees_unchanged": true,
+    "recommended_compacts_unchanged": true,
+    "US_extended_frontier_endpoint": 13011,
+    "diagnostic_5_percent_denominator": "future-informed",
+    "restricted_prior_analysis": "supplemental/restricted_information_benchmark.json"
+  },
+  "pdf_pages": 22,
+  "all_rendered_pages_inspected": true,
+  "overfull_boxes": 0,
+  "final_interpretation_verification": "supplemental/interpretation_verification.json"
+}

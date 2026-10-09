@@ -1,0 +1,12 @@
+{
+  "procedure": "Two-sided Bonferroni-adjusted Student-t marginal intervals",
+  "completion_samples": 512,
+  "degrees_of_freedom": 511,
+  "family_means": 260000,
+  "tail_probability": 1.923076923076923e-08,
+  "critical_value": 5.582881136359692,
+  "studentized_quantity": "Mean completion time; SE=sqrt(a^T unbiased_component_covariance a / 512)",
+  "common_random_numbers": "Shared indexed draws retained across candidates and cost-only scenarios; within-trajectory cost covariance retained. No cross-candidate covariance or paired-difference SE used. Bonferroni does not require independence.",
+  "assumptions": "Approximate Student-t/normal mean behavior, finite sample variance and IID completions within a fixed case. Not distribution-free coverage.",
+  "relative_regret": "Transform marginal time bounds using each fixed numerical model optimum; maximize over regional cases."
+}

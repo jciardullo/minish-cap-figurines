@@ -1,0 +1,75 @@
+{
+  "conclusion": "Reduced current observation is non-Markov when route/history is hidden. A posterior over route and latent event/progression history is needed.",
+  "states_from_existing_no_pull_arrivals": [
+    {
+      "route": "reference",
+      "phase_for_audit_only": 5,
+      "observation": {
+        "F": 0,
+        "S": 999,
+        "R": 0,
+        "U": 106,
+        "fortress": true,
+        "water": true,
+        "wind": false,
+        "wallet": 999
+      },
+      "next_pickups": [
+        50,
+        50,
+        50,
+        50
+      ]
+    },
+    {
+      "route": "earlier",
+      "phase_for_audit_only": 5,
+      "observation": {
+        "F": 0,
+        "S": 999,
+        "R": 0,
+        "U": 106,
+        "fortress": true,
+        "water": true,
+        "wind": false,
+        "wallet": 999
+      },
+      "next_pickups": [
+        50,
+        50,
+        50,
+        50,
+        200
+      ]
+    }
+  ],
+  "controlled_state_example": {
+    "common_observation": {
+      "F": 80,
+      "S": 500,
+      "R": 0,
+      "U": 106,
+      "fortress": true,
+      "water": true,
+      "wind": false,
+      "wallet": 999
+    },
+    "action": "Advance normal progression",
+    "reference_next_shells": 700,
+    "earlier_next_shells": 900,
+    "reference_next_pickups": [
+      50,
+      50,
+      50,
+      50
+    ],
+    "earlier_next_pickups": [
+      50,
+      50,
+      50,
+      50,
+      200
+    ],
+    "qualification": "Legal state-space counterexample to observation lumpability, not a measured probability for casual entry histories; two frozen histories need not imply the same posterior over routes."
+  }
+}

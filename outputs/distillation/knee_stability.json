@@ -1,0 +1,194 @@
+{
+  "PAL": [
+    {
+      "change": "P weight x0.8",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "P weight x1.2",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "S weight x0.8",
+      "selected": 3708,
+      "changed": true,
+      "interior": true
+    },
+    {
+      "change": "S weight x1.2",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "Q weight x0.8",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "Q weight x1.2",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "I weight x0.8",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "I weight x1.2",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "L weight x0.8",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "L weight x1.2",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "M weight x0.8",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "M weight x1.2",
+      "selected": 3708,
+      "changed": true,
+      "interior": true
+    },
+    {
+      "change": "B weight x0.8",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "B weight x1.2",
+      "selected": 6457,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "Remove behaviorally identical candidates",
+      "selected": 6457,
+      "changed": false
+    },
+    {
+      "change": "Remove adjacent near duplicates: delta C<=1 and every-case delta time<=1 s",
+      "selected": 6457,
+      "changed": false
+    }
+  ],
+  "NTSC-U": [
+    {
+      "change": "P weight x0.8",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "P weight x1.2",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "S weight x0.8",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "S weight x1.2",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "Q weight x0.8",
+      "selected": 6728,
+      "changed": true,
+      "interior": true
+    },
+    {
+      "change": "Q weight x1.2",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "I weight x0.8",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "I weight x1.2",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "L weight x0.8",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "L weight x1.2",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "M weight x0.8",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "M weight x1.2",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "B weight x0.8",
+      "selected": 6098,
+      "changed": false,
+      "interior": true
+    },
+    {
+      "change": "B weight x1.2",
+      "selected": 6728,
+      "changed": true,
+      "interior": true
+    },
+    {
+      "change": "Remove behaviorally identical candidates",
+      "selected": 6098,
+      "changed": false
+    },
+    {
+      "change": "Remove adjacent near duplicates: delta C<=1 and every-case delta time<=1 s",
+      "selected": 6098,
+      "changed": false
+    }
+  ]
+}

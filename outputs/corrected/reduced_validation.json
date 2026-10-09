@@ -1,0 +1,10 @@
+{
+  "states": 130,
+  "actions": 260,
+  "policy_iterations": 2,
+  "value_iterations": 65,
+  "lp_policy_max_difference": 8.881784197001252e-16,
+  "value_iteration_max_difference": 1.4850343177386094e-12,
+  "bellman_residual": 0.0,
+  "initial_seconds": 6.254166666666666
+}

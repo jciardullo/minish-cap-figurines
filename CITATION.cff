@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this human-directed, AI-assisted computational research artifact."
+type: software
+title: "A Conditional Stochastic Optimization of the Minish Cap Figurine Gallery and Distillation into Observable Human Policies"
+authors:
+  - name: "jciardullo"
+version: "1.0"
+date-released: "2026-10-08"
+license: "MIT AND CC-BY-4.0"
+repository-code: "https://github.com/jciardullo/minish-cap-figurines"
+url: "https://github.com/jciardullo/minish-cap-figurines"

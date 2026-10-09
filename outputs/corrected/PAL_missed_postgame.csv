@@ -1,0 +1,56 @@
+event,phase,milestone,type,source_id,shells_received,unlocked,wallet_cap,gallery_access,evidence
+0,0,Earth Element acquired,pickup,TileEntities_DeepwoodShrine_BluePortal:34,10,,,False,EU/US-preprocessed room text
+1,0,Earth Element acquired,pickup,TileEntities_DeepwoodShrine_BluePortal:35,10,,,False,EU/US-preprocessed room text
+2,0,Earth Element acquired,pickup,TileEntities_DeepwoodShrine_StairsToB1:36,20,,,False,EU/US-preprocessed room text
+3,0,Earth Element acquired,pickup,TileEntities_DeepwoodShrine_Barrel:43,10,,,False,EU/US-preprocessed room text
+4,0,Earth Element acquired,pickup,Anju round 1,10,,,False,"prizeData; levels advance, reward skipped after gallery completion"
+5,0,Earth Element acquired,pickup,Anju round 2,10,,,False,"prizeData; levels advance, reward skipped after gallery completion"
+6,0,Earth Element acquired,ordinary town visit,,0,51,300,True,
+7,1,Fire Element acquired,pickup,KAKERA_TAKARA_H,200,,,False,Flag comment; active regional binary table unavailable
+8,1,Fire Element acquired,ordinary town visit,,0,55,300,True,
+9,2,Pegasus Boots and second sword acquired,pickup,TileEntities_MinishRafters_Stockwell:119,10,,,False,EU/US-preprocessed room text
+10,2,Pegasus Boots and second sword acquired,pickup,TileEntities_Caves_HillsKeeseChest:51,20,,,False,EU/US-preprocessed room text
+11,2,Pegasus Boots and second sword acquired,pickup,Gregal reward,100,,,False,Reward source code
+12,2,Pegasus Boots and second sword acquired,pickup,KAKERA_TAKARA_P,200,,,False,Flag comment; active regional binary table unavailable
+13,2,Pegasus Boots and second sword acquired,pickup,KAKERA_TAKARA_T,200,,,False,Flag comment; active regional binary table unavailable
+14,2,Pegasus Boots and second sword acquired,pickup,Anju round 3,20,,,False,"prizeData; levels advance, reward skipped after gallery completion"
+15,2,Pegasus Boots and second sword acquired,pickup,Anju round 4,20,,,False,"prizeData; levels advance, reward skipped after gallery completion"
+16,2,Pegasus Boots and second sword acquired,ordinary town visit,,0,63,999,True,
+17,3,Wind dungeon completed; Mole Mitts acquired,pickup,TileEntities_MinishCaves_Ruins:105,10,,,False,EU/US-preprocessed room text
+18,3,Wind dungeon completed; Mole Mitts acquired,pickup,TileEntities_Ruins_Armos:52,50,,,False,EU/US-preprocessed room text
+19,3,Wind dungeon completed; Mole Mitts acquired,pickup,TileEntities_FortressOfWinds_Wizzrobe:67,80,,,False,EU/US-preprocessed room text
+20,3,Wind dungeon completed; Mole Mitts acquired,pickup,TileEntities_CastorWildsDigCave_Main:64,50,,,False,EU/US-preprocessed room text
+21,3,Wind dungeon completed; Mole Mitts acquired,pickup,Entities_OuterFortressOfWinds_2F_0:ground:84,1,,,False,Room text; flagged ground object
+22,3,Wind dungeon completed; Mole Mitts acquired,pickup,KAKERA_TAKARA_Y,200,,,False,Flag comment; active regional binary table unavailable
+23,3,Wind dungeon completed; Mole Mitts acquired,ordinary town visit,,0,88,999,True,
+24,4,Water Element acquired,pickup,TileEntities_CastleGardenMinishHoles_East:100,50,,,False,EU/US-preprocessed room text
+25,4,Water Element acquired,pickup,TileEntities_CastleGardenMinishHoles_West:101,50,,,False,EU/US-preprocessed room text
+26,4,Water Element acquired,pickup,TileEntities_TempleOfDroplets_LilypadIceBlocks:90,100,,,False,EU/US-preprocessed room text
+27,4,Water Element acquired,pickup,TileEntities_HyruleTownMinishCaves_WestFrozenChest:21,100,,,False,EU/US-preprocessed room text
+28,4,Water Element acquired,pickup,TileEntities_CastleGarden_Main:18,100,,,False,EU/US-preprocessed room text
+29,4,Water Element acquired,pickup,TileEntities_HyruleField_WesternWoodsNorth:156,100,,,False,EU/US-preprocessed room text
+30,4,Water Element acquired,pickup,Percy reward,100,,,False,Reward source code
+31,4,Water Element acquired,pickup,Anju round 5,30,,,False,"prizeData; levels advance, reward skipped after gallery completion"
+32,4,Water Element acquired,pickup,Anju round 6,30,,,False,"prizeData; levels advance, reward skipped after gallery completion"
+33,4,Water Element acquired,ordinary town visit,,0,101,999,True,
+34,5,Royal Crypt completed,pickup,gUnk_080D9328:90,200,,,False,EU/US-preprocessed room text
+35,5,Royal Crypt completed,ordinary town visit,,0,106,999,True,
+36,6,Wind Element acquired; Roc’s Cape acquired,pickup,TileEntities_CloudTops_Middle:222,50,,,False,EU/US-preprocessed room text
+37,6,Wind Element acquired; Roc’s Cape acquired,pickup,TileEntities_CloudTops_Middle:223,50,,,False,EU/US-preprocessed room text
+38,6,Wind Element acquired; Roc’s Cape acquired,pickup,TileEntities_CloudTops_Middle:224,50,,,False,EU/US-preprocessed room text
+39,6,Wind Element acquired; Roc’s Cape acquired,pickup,TileEntities_CloudTops_Middle:225,50,,,False,EU/US-preprocessed room text
+40,6,Wind Element acquired; Roc’s Cape acquired,ordinary town visit,,0,123,999,True,
+41,7,Main-game completionist sidequests finished,pickup,TileEntities_HyliaDigCaves_North:55,50,,,False,EU/US-preprocessed room text
+42,7,Main-game completionist sidequests finished,pickup,TileEntities_HyliaDigCaves_North:57,50,,,False,EU/US-preprocessed room text
+43,7,Main-game completionist sidequests finished,pickup,TileEntities_VeilFallsDigCave_Main:74,50,,,False,EU/US-preprocessed room text
+44,7,Main-game completionist sidequests finished,pickup,TileEntities_VeilFallsDigCave_Main:75,50,,,False,EU/US-preprocessed room text
+45,7,Main-game completionist sidequests finished,pickup,TileEntities_Beanstalks_LakeHylia:134,200,,,False,EU/US-preprocessed room text
+46,7,Main-game completionist sidequests finished,pickup,TileEntities_Beanstalks_EasternHills:138,200,,,False,EU/US-preprocessed room text
+47,7,Main-game completionist sidequests finished,pickup,TileEntities_Caves_Boomerang:7,200,,,False,EU/US-preprocessed room text
+48,7,Main-game completionist sidequests finished,pickup,TileEntities_VeilFalls_Main:161,100,,,False,EU/US-preprocessed room text
+49,7,Main-game completionist sidequests finished,pickup,TileEntities_VeilFallsCaves_SecretRoom:74,50,,,False,EU/US-preprocessed room text
+50,7,Main-game completionist sidequests finished,pickup,TileEntities_VeilFallsCaves_SecretChest:76,50,,,False,EU/US-preprocessed room text
+51,7,Main-game completionist sidequests finished,ordinary town visit,,0,130,999,True,
+52,8,Vaati defeated; remaining completionist cleanup,pickup,TileEntities_RoyalValleyGraves_Gina:94,100,,,False,EU/US-preprocessed room text
+53,8,Vaati defeated; remaining completionist cleanup,pickup,TileEntities_Caves_HyruleTownWaterfall:14,200,,,False,EU/US-preprocessed room text
+54,8,Vaati defeated; remaining completionist cleanup,ordinary town visit,,0,136,999,True,

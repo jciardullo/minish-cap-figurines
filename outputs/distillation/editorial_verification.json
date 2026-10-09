@@ -1,0 +1,26 @@
+{
+  "protected_files": 2831,
+  "protected_hashes_unchanged": false,
+  "numerical_search_rerun": false,
+  "scenario_matrix_unchanged": true,
+  "policy_inequalities": "Inclusive entry >=, strict wager >, reserve stop <=; executable boundary checks match all four selected policy IDs",
+  "selected_policy_ids": {
+    "PAL_knee": 6457,
+    "PAL_compact": 8911,
+    "NTSC-U_knee": 6098,
+    "NTSC-U_compact": 8560
+  },
+  "screening_critical_reproduced": 5.582881136359692,
+  "pdf_pages": 22,
+  "all_rendered_pages_inspected": true,
+  "overfull_boxes": 0,
+  "builtin_compiler": "success",
+  "arithmetic_certification": "No exact-arithmetic or directed-rounding certification claimed",
+  "effective_compact_entry_checks": 800000,
+  "effective_compact_entry": "Regional shell threshold and chance >=20%, with shells strictly above current row reserve; existing zero-pull sessions excluded in wording only",
+  "attribution": "Project lead and curator: jciardullo; human-directed, AI-assisted computational research",
+  "endpoint_audit": "PAL interior frontier repaired with supplemental ID 10000; C7 endpoints and official knee IDs unchanged",
+  "targeted_forward_evaluation": true,
+  "supplemental_verification": "supplemental/verification.json",
+  "final_interpretation_verification": "supplemental/interpretation_verification.json"
+}

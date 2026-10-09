@@ -1,0 +1,31 @@
+{
+  "expected_seconds": 6156.968322270839,
+  "completion_probability": 1.0,
+  "shop_only_trips": 0.8994994075611419,
+  "observable_entry_mismatch": 4.128076842327766e-248,
+  "pulls": 294.2737188036852,
+  "dupes": 158.27371880383927,
+  "used": 3778.557457911979,
+  "received": 3590.9999999999,
+  "retained": 3589.9347865609097,
+  "lost": 1.0652134389850674,
+  "refund": 791.2346181567328,
+  "refundlost": 0.1339758625281207,
+  "farm": 24.411853357066146,
+  "farmrupees": 488.23706714132226,
+  "purchased": 188.66550839272287,
+  "trips": 1.7092045367031012,
+  "endS": 0.04283703963020895,
+  "endR": 21.701629347128932,
+  "optimum_seconds": 6071.07244914001,
+  "regret_seconds": 85.89587313082934,
+  "regret_percent": 1.4148385454203705,
+  "region": "NTSC-U",
+  "route": "fusion_early",
+  "weights": {
+    "reference": 0.0466465141507168,
+    "earlier": 0.217688307470214,
+    "halfcap_reference": 0.7356651783790692
+  },
+  "observable_classifier_error_seconds_bound": 1.2384230526983297e-242
+}

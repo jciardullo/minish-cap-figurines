@@ -1,0 +1,31 @@
+{
+  "manuscript_version": "1.0",
+  "publication_identifier_assigned": false,
+  "new_numerical_computation_or_policy_search": false,
+  "numerical_outputs_unchanged": true,
+  "player_guide_bytes_unchanged": true,
+  "candidate_sha256": "edcd4d1118de22cefa0d248020469064b06188cc34cdbea57967e58766163730",
+  "pdf_typo_and_version_verified": true,
+  "title_page_visual_check": "passed",
+  "pdf_pages": 22,
+  "overfull_boxes": 0,
+  "builtin_compile": "success",
+  "changed_release_artifacts": [
+    {
+      "path": "outputs/distillation/paper_template.tex",
+      "sha256": "7a019c78ba16709f74f1eb9bc32f2768d90cae2733e51d4a5289feb3c956a00e"
+    },
+    {
+      "path": "outputs/distillation/paper.pdf",
+      "sha256": "1f383045121c49b57318636988bc3ace9cb98c7a015e0dec50af7d6332d5d958"
+    },
+    {
+      "path": "outputs/distillation/paper.tex",
+      "sha256": "7a019c78ba16709f74f1eb9bc32f2768d90cae2733e51d4a5289feb3c956a00e"
+    },
+    {
+      "path": "outputs/distillation/supplemental/publish_revision.py",
+      "sha256": "1f9f6fc2c0673de30897497e43c3b54c4f2ccf2c823956cc4765e833234196da"
+    }
+  ]
+}

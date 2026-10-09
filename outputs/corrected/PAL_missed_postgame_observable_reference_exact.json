@@ -1,0 +1,23 @@
+{
+  "expected_seconds": 7260.7837158231,
+  "completion_probability": 1,
+  "pulls": 342.197865375631,
+  "dupes": 206.197865375819,
+  "used": 3426.87657714598,
+  "received": 3590.99999999992,
+  "retained": 3289.55262530345,
+  "lost": 301.447374696478,
+  "refund": 1030.97303272148,
+  "refundlost": 0.0162941576022341,
+  "farm": 18.4425498764849,
+  "farmrupees": 368.850997529699,
+  "purchased": 137.324426587133,
+  "trips": 1.52774995688918,
+  "endS": 0.000474740908480061,
+  "endR": 26.5797643807068,
+  "region": "PAL",
+  "route": "missed_postgame",
+  "optimum_seconds": 6851.95811450243,
+  "regret_seconds": 408.8256013206692,
+  "regret_percent": 5.9665513782895765
+}

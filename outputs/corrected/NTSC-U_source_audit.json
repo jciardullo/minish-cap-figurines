@@ -1,0 +1,416 @@
+[
+  {
+    "source_id": "gUnk_080D9328:92",
+    "label": "gUnk_080D9328",
+    "quantity": 200,
+    "line": 3665,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_RoyalValleyGraves_Gina:94",
+    "label": "TileEntities_RoyalValleyGraves_Gina",
+    "quantity": 100,
+    "line": 3716,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_MinishRafters_Stockwell:119",
+    "label": "TileEntities_MinishRafters_Stockwell",
+    "quantity": 10,
+    "line": 3806,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_MinishCaves_Ruins:105",
+    "label": "TileEntities_MinishCaves_Ruins",
+    "quantity": 10,
+    "line": 5368,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_CastleGardenMinishHoles_East:100",
+    "label": "TileEntities_CastleGardenMinishHoles_East",
+    "quantity": 50,
+    "line": 5645,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_CastleGardenMinishHoles_West:101",
+    "label": "TileEntities_CastleGardenMinishHoles_West",
+    "quantity": 50,
+    "line": 5665,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_CloudTops_Middle:225",
+    "label": "TileEntities_CloudTops_Middle",
+    "quantity": 50,
+    "line": 6355,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_CloudTops_Middle:226",
+    "label": "TileEntities_CloudTops_Middle",
+    "quantity": 50,
+    "line": 6356,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_CloudTops_Middle:227",
+    "label": "TileEntities_CloudTops_Middle",
+    "quantity": 50,
+    "line": 6357,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_CloudTops_Middle:228",
+    "label": "TileEntities_CloudTops_Middle",
+    "quantity": 50,
+    "line": 6358,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_Ruins_Armos:53",
+    "label": "TileEntities_Ruins_Armos",
+    "quantity": 50,
+    "line": 6836,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_DeepwoodShrine_BluePortal:34",
+    "label": "TileEntities_DeepwoodShrine_BluePortal",
+    "quantity": 10,
+    "line": 6964,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_DeepwoodShrine_BluePortal:35",
+    "label": "TileEntities_DeepwoodShrine_BluePortal",
+    "quantity": 10,
+    "line": 6965,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_DeepwoodShrine_StairsToB1:36",
+    "label": "TileEntities_DeepwoodShrine_StairsToB1",
+    "quantity": 20,
+    "line": 7003,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_DeepwoodShrine_Barrel:43",
+    "label": "TileEntities_DeepwoodShrine_Barrel",
+    "quantity": 10,
+    "line": 7127,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_FortressOfWinds_Wizzrobe:67",
+    "label": "TileEntities_FortressOfWinds_Wizzrobe",
+    "quantity": 80,
+    "line": 9394,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_TempleOfDroplets_LilypadIceBlocks:90",
+    "label": "TileEntities_TempleOfDroplets_LilypadIceBlocks",
+    "quantity": 100,
+    "line": 10479,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_HyruleTownMinishCaves_WestFrozenChest:21",
+    "label": "TileEntities_HyruleTownMinishCaves_WestFrozenChest",
+    "quantity": 100,
+    "line": 16157,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_CastleGarden_Main:17",
+    "label": "TileEntities_CastleGarden_Main",
+    "quantity": 100,
+    "line": 16417,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_HyliaDigCaves_North:55",
+    "label": "TileEntities_HyliaDigCaves_North",
+    "quantity": 50,
+    "line": 17896,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_HyliaDigCaves_North:57",
+    "label": "TileEntities_HyliaDigCaves_North",
+    "quantity": 50,
+    "line": 17898,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_CastorWildsDigCave_Main:64",
+    "label": "TileEntities_CastorWildsDigCave_Main",
+    "quantity": 50,
+    "line": 17925,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_VeilFallsDigCave_Main:74",
+    "label": "TileEntities_VeilFallsDigCave_Main",
+    "quantity": 50,
+    "line": 18057,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_VeilFallsDigCave_Main:75",
+    "label": "TileEntities_VeilFallsDigCave_Main",
+    "quantity": 50,
+    "line": 18058,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "Entities_OuterFortressOfWinds_2F_0:ground:84",
+    "label": "Entities_OuterFortressOfWinds_2F_0",
+    "quantity": 1,
+    "line": 18111,
+    "kind": "ground",
+    "evidence": "Room text; flagged ground object",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_Beanstalks_LakeHylia:134",
+    "label": "TileEntities_Beanstalks_LakeHylia",
+    "quantity": 200,
+    "line": 19239,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_Beanstalks_EasternHills:138",
+    "label": "TileEntities_Beanstalks_EasternHills",
+    "quantity": 200,
+    "line": 19302,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_HyruleField_WesternWoodsNorth:157",
+    "label": "TileEntities_HyruleField_WesternWoodsNorth",
+    "quantity": 100,
+    "line": 20234,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_Caves_Boomerang:7",
+    "label": "TileEntities_Caves_Boomerang",
+    "quantity": 200,
+    "line": 20324,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_Caves_HyruleTownWaterfall:14",
+    "label": "TileEntities_Caves_HyruleTownWaterfall",
+    "quantity": 200,
+    "line": 20559,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_Caves_HillsKeeseChest:51",
+    "label": "TileEntities_Caves_HillsKeeseChest",
+    "quantity": 20,
+    "line": 20812,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_VeilFalls_Main:162",
+    "label": "TileEntities_VeilFalls_Main",
+    "quantity": 100,
+    "line": 20979,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_VeilFallsCaves_SecretRoom:74",
+    "label": "TileEntities_VeilFallsCaves_SecretRoom",
+    "quantity": 50,
+    "line": 21070,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "TileEntities_VeilFallsCaves_SecretChest:76",
+    "label": "TileEntities_VeilFallsCaves_SecretChest",
+    "quantity": 50,
+    "line": 21145,
+    "kind": "chest",
+    "evidence": "EU/US-preprocessed room text",
+    "source": "data/map/entity_headers.s"
+  },
+  {
+    "source_id": "Gregal reward",
+    "label": "Gregal reward",
+    "quantity": 100,
+    "line": 0,
+    "kind": "reward",
+    "evidence": "Reward source code",
+    "source": "data/scripts/cloudTops/script_GregalSick.inc"
+  },
+  {
+    "source_id": "Percy reward",
+    "label": "Percy reward",
+    "quantity": 100,
+    "line": 0,
+    "kind": "reward",
+    "evidence": "Reward source code",
+    "source": "src/npc/percy.c"
+  },
+  {
+    "source_id": "KAKERA_TAKARA_H",
+    "label": "Mt. Crenel fusion",
+    "quantity": 200,
+    "line": 0,
+    "kind": "fusion reward",
+    "evidence": "Flag comment; active regional binary table unavailable",
+    "source": "include/flags.h"
+  },
+  {
+    "source_id": "KAKERA_TAKARA_P",
+    "label": "South Field fusion",
+    "quantity": 200,
+    "line": 0,
+    "kind": "fusion reward",
+    "evidence": "Flag comment; active regional binary table unavailable",
+    "source": "include/flags.h"
+  },
+  {
+    "source_id": "KAKERA_TAKARA_T",
+    "label": "North Field fusion",
+    "quantity": 200,
+    "line": 0,
+    "kind": "fusion reward",
+    "evidence": "Flag comment; active regional binary table unavailable",
+    "source": "include/flags.h"
+  },
+  {
+    "source_id": "KAKERA_TAKARA_Y",
+    "label": "Wind Ruins fusion",
+    "quantity": 200,
+    "line": 0,
+    "kind": "fusion reward",
+    "evidence": "Flag comment; active regional binary table unavailable",
+    "source": "include/flags.h"
+  },
+  {
+    "source_id": "Anju round 1",
+    "label": "Anju round 1",
+    "quantity": 10,
+    "line": 86,
+    "kind": "reward",
+    "evidence": "prizeData; levels advance, reward skipped after gallery completion",
+    "source": "src/object/cuccoMinigame.c"
+  },
+  {
+    "source_id": "Anju round 2",
+    "label": "Anju round 2",
+    "quantity": 10,
+    "line": 86,
+    "kind": "reward",
+    "evidence": "prizeData; levels advance, reward skipped after gallery completion",
+    "source": "src/object/cuccoMinigame.c"
+  },
+  {
+    "source_id": "Anju round 3",
+    "label": "Anju round 3",
+    "quantity": 20,
+    "line": 86,
+    "kind": "reward",
+    "evidence": "prizeData; levels advance, reward skipped after gallery completion",
+    "source": "src/object/cuccoMinigame.c"
+  },
+  {
+    "source_id": "Anju round 4",
+    "label": "Anju round 4",
+    "quantity": 20,
+    "line": 86,
+    "kind": "reward",
+    "evidence": "prizeData; levels advance, reward skipped after gallery completion",
+    "source": "src/object/cuccoMinigame.c"
+  },
+  {
+    "source_id": "Anju round 5",
+    "label": "Anju round 5",
+    "quantity": 30,
+    "line": 86,
+    "kind": "reward",
+    "evidence": "prizeData; levels advance, reward skipped after gallery completion",
+    "source": "src/object/cuccoMinigame.c"
+  },
+  {
+    "source_id": "Anju round 6",
+    "label": "Anju round 6",
+    "quantity": 30,
+    "line": 86,
+    "kind": "reward",
+    "evidence": "prizeData; levels advance, reward skipped after gallery completion",
+    "source": "src/object/cuccoMinigame.c"
+  }
+]

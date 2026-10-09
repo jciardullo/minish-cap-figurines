@@ -1,0 +1,13 @@
+{
+  "protected_files": 496,
+  "all_protected_hashes_unchanged": true,
+  "new_policy_search": false,
+  "feature_vectors_verified": true,
+  "parameter_mutations_verified": true,
+  "pdf_pages": 22,
+  "all_pages_visually_inspected": true,
+  "overfull_boxes": 0,
+  "builtin_compile": "success",
+  "tests": "supplemental checks, 13 unit tests, all selected policy boundaries and 800000 entry checks passed",
+  "candidate_sha256": "edcd4d1118de22cefa0d248020469064b06188cc34cdbea57967e58766163730"
+}

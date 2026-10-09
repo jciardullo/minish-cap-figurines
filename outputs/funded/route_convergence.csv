@@ -1,0 +1,127 @@
+region,route,phase,milestone,same_available_pool,matched_sample_states,max_value_difference,representative_action_disagreements
+PAL,earlier,0,Earth Element acquired,True,1092,111.57603144314999,39
+PAL,earlier,1,Fire Element acquired,True,1176,111.96170940970023,77
+PAL,earlier,2,Pegasus Boots and second sword acquired,True,1344,116.52928323094056,101
+PAL,earlier,3,Wind dungeon completed; Mole Mitts acquired,True,1869,117.6176738109898,430
+PAL,earlier,4,Water Element acquired,True,2142,120.48735729228974,488
+PAL,earlier,5,Royal Crypt completed,True,2247,258.72012734753025,682
+PAL,earlier,6,Wind Element acquired; Roc’s Cape acquired,True,2604,596.3348622160192,1059
+PAL,earlier,7,Main-game completionist sidequests finished,True,2751,0.0,0
+PAL,earlier,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+PAL,later,0,Earth Element acquired,True,1092,94.16055030988991,303
+PAL,later,1,Fire Element acquired,True,1176,95.65991801499058,550
+PAL,later,2,Pegasus Boots and second sword acquired,True,1344,108.73413900661035,603
+PAL,later,3,Wind dungeon completed; Mole Mitts acquired,True,1869,85.71758550393997,1220
+PAL,later,4,Water Element acquired,True,2142,0.0,0
+PAL,later,5,Royal Crypt completed,True,2247,0.0,0
+PAL,later,6,Wind Element acquired; Roc’s Cape acquired,True,2604,0.0,0
+PAL,later,7,Main-game completionist sidequests finished,True,2751,0.0,0
+PAL,later,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+PAL,missed_early,0,Earth Element acquired,True,1092,45.16951111485014,303
+PAL,missed_early,1,Fire Element acquired,True,1176,45.16951111485014,159
+PAL,missed_early,2,Pegasus Boots and second sword acquired,True,1344,52.260442106230585,166
+PAL,missed_early,3,Wind dungeon completed; Mole Mitts acquired,True,1869,85.71758550393997,1220
+PAL,missed_early,4,Water Element acquired,True,2142,0.0,0
+PAL,missed_early,5,Royal Crypt completed,True,2247,0.0,0
+PAL,missed_early,6,Wind Element acquired; Roc’s Cape acquired,True,2604,0.0,0
+PAL,missed_early,7,Main-game completionist sidequests finished,True,2751,0.0,0
+PAL,missed_early,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+PAL,missed_late,0,Earth Element acquired,True,1092,64.42482080984973,95
+PAL,missed_late,1,Fire Element acquired,True,1176,64.42482080984973,206
+PAL,missed_late,2,Pegasus Boots and second sword acquired,True,1344,72.6388002113199,192
+PAL,missed_late,3,Wind dungeon completed; Mole Mitts acquired,True,1869,114.7267138810098,767
+PAL,missed_late,4,Water Element acquired,True,2142,0.0,0
+PAL,missed_late,5,Royal Crypt completed,True,2247,0.0,0
+PAL,missed_late,6,Wind Element acquired; Roc’s Cape acquired,True,2604,0.0,0
+PAL,missed_late,7,Main-game completionist sidequests finished,True,2751,0.0,0
+PAL,missed_late,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+PAL,fusion_early,0,Earth Element acquired,True,1092,823.36368987488,14
+PAL,fusion_early,1,Fire Element acquired,True,1176,823.3350068923401,39
+PAL,fusion_early,2,Pegasus Boots and second sword acquired,True,1344,823.36368987488,21
+PAL,fusion_early,3,Wind dungeon completed; Mole Mitts acquired,True,1869,823.36368987487,64
+PAL,fusion_early,4,Water Element acquired,True,2142,823.36368987487,170
+PAL,fusion_early,5,Royal Crypt completed,True,2247,823.36368987487,213
+PAL,fusion_early,6,Wind Element acquired; Roc’s Cape acquired,False,2604,823.36368987487,528
+PAL,fusion_early,7,Main-game completionist sidequests finished,True,2751,0.0,0
+PAL,fusion_early,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+PAL,fusion_late,0,Earth Element acquired,True,1092,0.0,0
+PAL,fusion_late,1,Fire Element acquired,True,1176,0.0,0
+PAL,fusion_late,2,Pegasus Boots and second sword acquired,True,1344,0.0,0
+PAL,fusion_late,3,Wind dungeon completed; Mole Mitts acquired,True,1869,0.0,0
+PAL,fusion_late,4,Water Element acquired,True,2142,0.0,0
+PAL,fusion_late,5,Royal Crypt completed,True,2247,0.0,0
+PAL,fusion_late,6,Wind Element acquired; Roc’s Cape acquired,True,2604,0.0,0
+PAL,fusion_late,7,Main-game completionist sidequests finished,False,2604,0.0,0
+PAL,fusion_late,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+PAL,missed_postgame,0,Earth Element acquired,True,1092,333.55234535129966,96
+PAL,missed_postgame,1,Fire Element acquired,True,1176,333.6917262201596,193
+PAL,missed_postgame,2,Pegasus Boots and second sword acquired,True,1344,337.0593134580304,170
+PAL,missed_postgame,3,Wind dungeon completed; Mole Mitts acquired,True,1869,419.5356975218897,724
+PAL,missed_postgame,4,Water Element acquired,True,2142,533.2099157510302,652
+PAL,missed_postgame,5,Royal Crypt completed,True,2247,558.9142752386101,166
+PAL,missed_postgame,6,Wind Element acquired; Roc’s Cape acquired,True,2604,696.8790536329791,420
+PAL,missed_postgame,7,Main-game completionist sidequests finished,True,2751,909.22378503254,1134
+PAL,missed_postgame,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+NTSC-U,earlier,0,Earth Element acquired,True,1029,92.97651485585993,16
+NTSC-U,earlier,1,Fire Element acquired,True,1113,93.30798111966033,41
+NTSC-U,earlier,2,Pegasus Boots and second sword acquired,True,1323,99.5652797858802,78
+NTSC-U,earlier,3,Wind dungeon completed; Mole Mitts acquired,True,1869,100.71415061023072,351
+NTSC-U,earlier,4,Water Element acquired,True,2142,103.95315862446932,451
+NTSC-U,earlier,5,Royal Crypt completed,True,2247,262.3146227737798,665
+NTSC-U,earlier,6,Wind Element acquired; Roc’s Cape acquired,True,2604,441.307292262631,1068
+NTSC-U,earlier,7,Main-game completionist sidequests finished,True,2751,0.0,0
+NTSC-U,earlier,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+NTSC-U,later,0,Earth Element acquired,True,1029,99.98898667206959,293
+NTSC-U,later,1,Fire Element acquired,True,1113,107.27944001098967,408
+NTSC-U,later,2,Pegasus Boots and second sword acquired,True,1323,125.1789567934702,515
+NTSC-U,later,3,Wind dungeon completed; Mole Mitts acquired,True,1869,92.43423903757002,1107
+NTSC-U,later,4,Water Element acquired,True,2142,0.0,0
+NTSC-U,later,5,Royal Crypt completed,True,2247,0.0,0
+NTSC-U,later,6,Wind Element acquired; Roc’s Cape acquired,True,2604,0.0,0
+NTSC-U,later,7,Main-game completionist sidequests finished,True,2751,0.0,0
+NTSC-U,later,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+NTSC-U,missed_early,0,Earth Element acquired,True,1029,52.34311371288004,293
+NTSC-U,missed_early,1,Fire Element acquired,True,1113,52.6246208270004,80
+NTSC-U,missed_early,2,Pegasus Boots and second sword acquired,True,1323,60.19398224253018,147
+NTSC-U,missed_early,3,Wind dungeon completed; Mole Mitts acquired,True,1869,92.43423903757002,1107
+NTSC-U,missed_early,4,Water Element acquired,True,2142,0.0,0
+NTSC-U,missed_early,5,Royal Crypt completed,True,2247,0.0,0
+NTSC-U,missed_early,6,Wind Element acquired; Roc’s Cape acquired,True,2604,0.0,0
+NTSC-U,missed_early,7,Main-game completionist sidequests finished,True,2751,0.0,0
+NTSC-U,missed_early,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+NTSC-U,missed_late,0,Earth Element acquired,True,1029,73.0706001917697,41
+NTSC-U,missed_late,1,Fire Element acquired,True,1113,72.63857536217984,73
+NTSC-U,missed_late,2,Pegasus Boots and second sword acquired,True,1323,81.4399352872997,125
+NTSC-U,missed_late,3,Wind dungeon completed; Mole Mitts acquired,True,1869,124.47266810952988,595
+NTSC-U,missed_late,4,Water Element acquired,True,2142,0.0,0
+NTSC-U,missed_late,5,Royal Crypt completed,True,2247,0.0,0
+NTSC-U,missed_late,6,Wind Element acquired; Roc’s Cape acquired,True,2604,0.0,0
+NTSC-U,missed_late,7,Main-game completionist sidequests finished,True,2751,0.0,0
+NTSC-U,missed_late,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+NTSC-U,fusion_early,0,Earth Element acquired,True,1029,697.2639494778905,2
+NTSC-U,fusion_early,1,Fire Element acquired,True,1113,697.2639494778905,23
+NTSC-U,fusion_early,2,Pegasus Boots and second sword acquired,True,1323,697.28460299176,16
+NTSC-U,fusion_early,3,Wind dungeon completed; Mole Mitts acquired,True,1869,697.2386921401803,53
+NTSC-U,fusion_early,4,Water Element acquired,True,2142,697.28460299177,140
+NTSC-U,fusion_early,5,Royal Crypt completed,True,2247,697.28460299177,180
+NTSC-U,fusion_early,6,Wind Element acquired; Roc’s Cape acquired,False,2604,697.28460299177,613
+NTSC-U,fusion_early,7,Main-game completionist sidequests finished,True,2751,0.0,0
+NTSC-U,fusion_early,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+NTSC-U,fusion_late,0,Earth Element acquired,True,1029,0.0,0
+NTSC-U,fusion_late,1,Fire Element acquired,True,1113,0.0,0
+NTSC-U,fusion_late,2,Pegasus Boots and second sword acquired,True,1323,0.0,0
+NTSC-U,fusion_late,3,Wind dungeon completed; Mole Mitts acquired,True,1869,0.0,0
+NTSC-U,fusion_late,4,Water Element acquired,True,2142,0.0,0
+NTSC-U,fusion_late,5,Royal Crypt completed,True,2247,0.0,0
+NTSC-U,fusion_late,6,Wind Element acquired; Roc’s Cape acquired,True,2604,0.0,0
+NTSC-U,fusion_late,7,Main-game completionist sidequests finished,False,2604,0.0,0
+NTSC-U,fusion_late,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0
+NTSC-U,missed_postgame,0,Earth Element acquired,True,1029,290.2315245425398,34
+NTSC-U,missed_postgame,1,Fire Element acquired,True,1113,290.32438086713046,92
+NTSC-U,missed_postgame,2,Pegasus Boots and second sword acquired,True,1323,293.20239211236003,122
+NTSC-U,missed_postgame,3,Wind dungeon completed; Mole Mitts acquired,True,1869,381.4081616763601,593
+NTSC-U,missed_postgame,4,Water Element acquired,True,2142,493.2066645462801,599
+NTSC-U,missed_postgame,5,Royal Crypt completed,True,2247,521.1888188194403,136
+NTSC-U,missed_postgame,6,Wind Element acquired; Roc’s Cape acquired,True,2604,617.93404288536,383
+NTSC-U,missed_postgame,7,Main-game completionist sidequests finished,True,2751,669.5241361625003,1134
+NTSC-U,missed_postgame,8,Vaati defeated; remaining completionist cleanup,True,2856,0.0,0

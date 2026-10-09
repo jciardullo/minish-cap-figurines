@@ -1,0 +1,51 @@
+{
+  "no_new_policy_search": true,
+  "uniform_prior_percent_excess": {
+    "PAL": {
+      "compact": 0.15179270308358028,
+      "knee": 6.7205536471412595
+    },
+    "NTSC-U": {
+      "compact": 0.05152849485633932,
+      "knee": 6.1950554256660935
+    }
+  },
+  "runtime": {
+    "regional_records": 490,
+    "child_cpu_seconds": 194.66012,
+    "seconds_per_record": 0.39726555102040817,
+    "policies_per_region": 3980024,
+    "projected_cpu_days": 36.60014878320484
+  },
+  "legacy_schema_alias": "tier5 and supplemental_Tier5 identify the local compact-policy mutation experiment; not an exhaustive Tier-5 search",
+  "restricted_winners": {
+    "PAL": {
+      "id": 12011,
+      "features": [
+        4,
+        4,
+        4,
+        1,
+        8,
+        1,
+        0,
+        2
+      ],
+      "complexity": 42
+    },
+    "NTSC-U": {
+      "id": 13011,
+      "features": [
+        4,
+        3,
+        3,
+        1,
+        8,
+        1,
+        0,
+        2
+      ],
+      "complexity": 39
+    }
+  }
+}

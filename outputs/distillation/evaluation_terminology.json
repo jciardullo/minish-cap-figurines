@@ -1,0 +1,16 @@
+{
+  "floating_point_arithmetic_certified": false,
+  "method": "deterministic forward occupancy evaluation",
+  "legacy_schema_keys": {
+    "exactly_evaluated": "received deterministic forward occupancy evaluation",
+    "exactly_dominated": "empirically dominated using deterministic forward expectations at the documented tolerance",
+    "not_retained_after_screening": "not retained; no deterministic dominance claim"
+  },
+  "legacy_paths": [
+    "exact/",
+    "exact.cpp",
+    "exact_policy_summary.csv",
+    "exact_evaluated_ids.json"
+  ],
+  "reason": "Historical keys and filenames are retained for compatibility and unchanged machine-readable hashes; none imply exact arithmetic."
+}

@@ -1,0 +1,16 @@
+{
+  "PAL": {
+    "baseline_seconds": 10420.414287586897,
+    "compact_seconds": 7322.454588049536,
+    "knee_seconds": 7806.504299415238,
+    "compact_saving_vs_baseline_minutes": 51.632661658956,
+    "compact_saving_vs_knee_minutes": 8.067495189428367
+  },
+  "NTSC-U": {
+    "baseline_seconds": 10420.414288009877,
+    "compact_seconds": 6917.354691915068,
+    "knee_seconds": 7351.998769178564,
+    "compact_saving_vs_baseline_minutes": 58.384326601580156,
+    "compact_saving_vs_knee_minutes": 7.2440679543916
+  }
+}

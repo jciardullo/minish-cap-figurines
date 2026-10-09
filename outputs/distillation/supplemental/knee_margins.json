@@ -1,0 +1,172 @@
+{
+  "PAL": {
+    "endpoints": {
+      "C_min": 7,
+      "C_max": 40,
+      "R_min": 0.08136229798066436,
+      "R_max": 1.8436255106008994
+    },
+    "ranked_interior": [
+      {
+        "id": 6457,
+        "complexity": 14,
+        "worst_regret": 0.227821311714354,
+        "normalized_C": 0.21212121212121213,
+        "normalized_R": 0.08310847816877814,
+        "signed_score": 0.49834786517489116
+      },
+      {
+        "id": 6729,
+        "complexity": 13,
+        "worst_regret": 0.2950027540464606,
+        "normalized_C": 0.18181818181818182,
+        "normalized_R": 0.12123073019730306,
+        "signed_score": 0.4928188404691927
+      },
+      {
+        "id": 3708,
+        "complexity": 12,
+        "worst_regret": 0.3536627821070257,
+        "normalized_C": 0.15151515151515152,
+        "normalized_R": 0.15451748761269843,
+        "signed_score": 0.49070902679482925
+      },
+      {
+        "id": 10000,
+        "complexity": 8,
+        "worst_regret": 0.6421446973186998,
+        "normalized_C": 0.030303030303030304,
+        "normalized_R": 0.3182171626361261,
+        "signed_score": 0.46066578937882613
+      },
+      {
+        "id": 4148,
+        "complexity": 10,
+        "worst_regret": 0.5962918748595956,
+        "normalized_C": 0.09090909090909091,
+        "normalized_R": 0.29219788121963014,
+        "signed_score": 0.4362092432744832
+      },
+      {
+        "id": 7651,
+        "complexity": 22,
+        "worst_regret": 0.105365684765249,
+        "normalized_C": 0.45454545454545453,
+        "normalized_R": 0.013620772772584307,
+        "signed_score": 0.3760632671274395
+      },
+      {
+        "id": 9114,
+        "complexity": 23,
+        "worst_regret": 0.0986510781829889,
+        "normalized_C": 0.48484848484848486,
+        "normalized_R": 0.009810555017271563,
+        "signed_score": 0.3573300197222444
+      },
+      {
+        "id": 9278,
+        "complexity": 24,
+        "worst_regret": 0.0914509747876038,
+        "normalized_C": 0.5151515151515151,
+        "normalized_R": 0.005724841064995632,
+        "signed_score": 0.338791577546113
+      },
+      {
+        "id": 8553,
+        "complexity": 36,
+        "worst_regret": 0.08167272221007713,
+        "normalized_C": 0.8787878787878788,
+        "normalized_R": 0.0001761508877843585,
+        "signed_score": 0.08558535538383232
+      }
+    ],
+    "selected": 6457,
+    "runner_up": 6729,
+    "margin": 0.005529024705698438
+  },
+  "NTSC-U": {
+    "endpoints": {
+      "C_min": 7,
+      "C_max": 37,
+      "R_min": 0.0755675174556701,
+      "R_max": 1.2472173264083333
+    },
+    "ranked_interior": [
+      {
+        "id": 6098,
+        "complexity": 14,
+        "worst_regret": 0.21098847539202104,
+        "normalized_C": 0.23333333333333334,
+        "normalized_R": 0.11558142791607982,
+        "signed_score": 0.4603867874510022
+      },
+      {
+        "id": 6729,
+        "complexity": 13,
+        "worst_regret": 0.2717861897761447,
+        "normalized_C": 0.2,
+        "normalized_R": 0.16747211566216558,
+        "signed_score": 0.44726475630486295
+      },
+      {
+        "id": 3708,
+        "complexity": 12,
+        "worst_regret": 0.328706134108107,
+        "normalized_C": 0.16666666666666666,
+        "normalized_R": 0.21605313696821862,
+        "signed_score": 0.4364830127419363
+      },
+      {
+        "id": 4124,
+        "complexity": 10,
+        "worst_regret": 0.45601097286115355,
+        "normalized_C": 0.1,
+        "normalized_R": 0.32470747871803224,
+        "signed_score": 0.40679324296438557
+      },
+      {
+        "id": 75,
+        "complexity": 8,
+        "worst_regret": 0.6352158864612607,
+        "normalized_C": 0.03333333333333333,
+        "normalized_R": 0.4776583965014766,
+        "signed_score": 0.34578106389010915
+      },
+      {
+        "id": 8978,
+        "complexity": 22,
+        "worst_regret": 0.10817411474423215,
+        "normalized_C": 0.5,
+        "normalized_R": 0.027829644181574235,
+        "signed_score": 0.33387486047447384
+      },
+      {
+        "id": 9468,
+        "complexity": 24,
+        "worst_regret": 0.09644193552481956,
+        "normalized_C": 0.5666666666666667,
+        "normalized_R": 0.017816260378866175,
+        "signed_score": 0.2938149399848891
+      },
+      {
+        "id": 9524,
+        "complexity": 25,
+        "worst_regret": 0.0937494016011574,
+        "normalized_C": 0.6,
+        "normalized_R": 0.01551818982648072,
+        "signed_score": 0.2718696952165744
+      },
+      {
+        "id": 8080,
+        "complexity": 36,
+        "worst_regret": 0.08085787055401868,
+        "normalized_C": 0.9666666666666667,
+        "normalized_R": 0.0045153023180856565,
+        "signed_score": 0.020377425151325873
+      }
+    ],
+    "selected": 6098,
+    "runner_up": 6729,
+    "margin": 0.013122031146139246
+  }
+}

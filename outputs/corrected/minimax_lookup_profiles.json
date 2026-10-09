@@ -1,0 +1,14 @@
+{
+  "weights": {
+    "reference": 0.0,
+    "earlier": 0.36561926715261206,
+    "missed_postgame": 0.23028765486829092,
+    "cap_reference": 0.0,
+    "mid_reference": 0.0,
+    "halfmid_reference": 0.0,
+    "halfcap_reference": 0.4040930779790967
+  },
+  "worst_route_regret_percent": 5.000260729615538,
+  "criterion_percent": 5,
+  "passes": false
+}

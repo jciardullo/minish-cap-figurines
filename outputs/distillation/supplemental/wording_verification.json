@@ -1,0 +1,34 @@
+{
+  "wording_only": true,
+  "new_optimization_search_simulation_enumeration_evaluation": false,
+  "existing_computational_files_unchanged": true,
+  "candidate_sha256": "edcd4d1118de22cefa0d248020469064b06188cc34cdbea57967e58766163730",
+  "changed_existing_files": [
+    {
+      "path": "outputs/distillation/paper_template.tex",
+      "old_sha256": "7c4c5596119f3804e18b9189110aa33f709322a429b3bdd6db840efbf74f4a08",
+      "new_sha256": "a7294d475b10e8bb5e4d136653d34ec9225b73ef1e6256486dd2551fa8dd31ad"
+    },
+    {
+      "path": "outputs/distillation/paper.pdf",
+      "old_sha256": "c8c2e837f7ff714d5feeb134bb0d3f139117deb2f5728722f999d11da03f2e04",
+      "new_sha256": "03ce9cc62acb5159f758777b7a02f26fae8d9f1bc9ca7d736ebe8f0cef6ad4d8"
+    },
+    {
+      "path": "outputs/distillation/paper.tex",
+      "old_sha256": "7c4c5596119f3804e18b9189110aa33f709322a429b3bdd6db840efbf74f4a08",
+      "new_sha256": "a7294d475b10e8bb5e4d136653d34ec9225b73ef1e6256486dd2551fa8dd31ad"
+    },
+    {
+      "path": "outputs/distillation/player_strategy.md",
+      "old_sha256": "eab3037236f28511add30ec62679a360405494393b01a24cd3fdccfe01ff442c",
+      "new_sha256": "aa79332183584f014752d4f8c37020c8cc4115d0d59cba62ad681fd4874655c8"
+    }
+  ],
+  "lower_bound_inequality_preserved": true,
+  "unsupported_regret_attribution_removed": true,
+  "builtin_compile": "success",
+  "tectonic_compile": "success",
+  "limitations_and_conclusion_visual_check": "passed",
+  "overfull_boxes": 0
+}
