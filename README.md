@@ -59,6 +59,8 @@ work/distillation/test_policy
 python3 outputs/distillation/test_analysis.py
 ```
 
+The lightweight tests above leave tracked release files unchanged; you can verify `SHA256SUMS` immediately afterward.
+
 Detailed optional computational reproduction is documented in [the original research README](outputs/distillation/README.md). Reproduction jobs were **not rerun** during packaging. Historical paper-generation scripts may overwrite editorial revisions; use a disposable checkout for reproduction. The frozen manuscript source is authoritative. To compile the existing source without regenerating research content:
 
 ```sh

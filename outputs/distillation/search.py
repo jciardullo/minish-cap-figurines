@@ -50,7 +50,7 @@ def cases():
   for b,r,i in [(15,300,15),(25,300,15),(20,250,15),(20,350,15)]+([(20,300,12),(20,300,18)] if region=='PAL' else []):
    d=json.loads((F/f'{region}_reference_optimal_tol1e-06_b{b}_r{r}_i{i}_exact.json').read_text());out.append(dict(id=f'{region}:timing:b{b}:r{r}:i{i}',scenario_class='timing',region=region,route='reference',base=b,rate=r,entry=i,optimum_seconds=d['expected_seconds']))
  assert len(out)==26 and len({x['id'] for x in out})==26;return out
-CASES=cases();(OUT/'scenarios.json').write_text(json.dumps(CASES,indent=2))
+CASES=cases()  # Imports must not rewrite frozen release metadata.
 
 def generate():
  rng=random.Random(SEED);seen=set();out=[]
@@ -110,6 +110,7 @@ def retain(candidates,rows,region):
  return keep
 
 if __name__=='__main__':
+ (OUT/'scenarios.json').write_text(json.dumps(CASES,indent=2))
  candidates=generate();print('Generated',len(candidates),'coarse candidates',flush=True);data=screen(candidates,'coarse');rows,critical=scores(candidates,data)
  # Nominal best-32 beams by region plus one representative from each complexity band seed refinement.
  beam=set()

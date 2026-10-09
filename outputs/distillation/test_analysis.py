@@ -5,6 +5,20 @@ from frontier import knee,frontier,selections
 
 def row(id,C,R,mean=None,compact=True):return dict(id=id,complexity=C,features=[0,0,0,0,C,0,0,0],worst_regret=R,mean_regret=R if mean is None else mean,compact=compact,cases=[])
 class Tests(unittest.TestCase):
+ def test_imports_are_read_only(self):
+  import subprocess,sys,tempfile
+  from pathlib import Path
+  code="""from pathlib import Path
+import sys
+sys.path.insert(0, sys.argv[1])
+def reject_write(*args, **kwargs):
+ raise AssertionError('Import attempted to write a file')
+Path.write_text = reject_write
+import search, frontier, complexity_audit
+assert len(search.CASES) == 26
+"""
+  with tempfile.TemporaryDirectory() as scratch:
+   subprocess.run([sys.executable,'-c',code,str(Path(__file__).resolve().parent)],cwd=scratch,check=True,capture_output=True,text=True)
  def test_cases(self):
   self.assertEqual(len(CASES),26);self.assertEqual(sum(c['scenario_class']=='route' for c in CASES),16);self.assertEqual(sum(c['region']=='PAL' for c in CASES),14);self.assertEqual(sum(c['region']=='NTSC-U' for c in CASES),12)
  def test_geometry(self):
