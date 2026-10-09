@@ -15,3 +15,20 @@ Excluded: repository internals, temporary build/runtime files, local caches,
 credentials, and ROMs/game assets.
 Historical computation/search logs delivered in the verified bundle are retained
 as research evidence; no new scratch logs are included.
+
+## Release-asset checksum usage
+
+`release_assets.sha256` intentionally uses the bare archive filename so it can
+accompany a GitHub release download in the same directory. To verify the repository
+copy from the repository root, use:
+
+```sh
+(cd outputs && shasum -a 256 -c ../reproducibility/release_assets.sha256)
+```
+
+For separately downloaded release assets, place `figurine_distillation_bundle.zip`
+and its `.sha256` file together, then run:
+
+```sh
+shasum -a 256 -c figurine_distillation_bundle.sha256
+```

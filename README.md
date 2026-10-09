@@ -69,6 +69,8 @@ tectonic --keep-logs --outdir outputs/distillation outputs/distillation/paper.te
 
 Manuscript **Version 1.0**, dated **8 October 2026**. This is the first public repository release, tagged `v1.0`. No DOI or archive identifier has been assigned. Publication does not revise the frozen paper's original unassigned-identifier statement.
 
+A clone was reported at approximately **222 MB**; actual disk usage varies by platform and checkout. The repository includes the original reproducibility ZIP to preserve internal download links.
+
 ## Attribution and AI contribution
 
 This project was directed, curated, and published by **jciardullo**. OpenAI ChatGPT was used extensively for mathematical modeling, code and solver development, computational analysis, policy search, interpretation, drafting, LaTeX preparation, and editorial revision.
